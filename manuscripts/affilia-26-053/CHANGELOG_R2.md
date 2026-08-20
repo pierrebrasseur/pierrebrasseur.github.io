@@ -32,15 +32,16 @@ point at which a disclosure is converted into a non-event.
 
 | Section | R1 words | R2 words |
 |---|---|---|
-| Introduction | 1102 | 1188 |
-| Conceptual Approach, Positionality, and Scope | 738 | 849 |
-| Background | 1094 | 998 |
-| From Individual Vulnerability to Structural Exposure | 1479 | 1480 |
-| Epistemic Silencing and Institutional Betrayal | 1374 | 1237 |
-| Professional register (retitled) | 1515 | 1643 |
-| Discussion | 1605 | 1947 |
-| References | 1501 | 1473 |
-| **Body total** | **9177** | **9667** |
+| Introduction | 1102 | 1240 |
+| Conceptual Approach, Positionality, and Scope | 738 | 856 |
+| Background | 1094 | 1060 |
+| From Individual Vulnerability to Structural Exposure | 1479 | 1459 |
+| Epistemic Silencing and Institutional Betrayal | 1374 | 1231 |
+| Professional register (retitled) | 1515 | 1620 |
+| Discussion | 1605 | 1874 |
+| Conclusion (new heading) | — | 229 |
+| References | 1501 | 1538 |
+| **Body total** | **9177** | **9861** |
 
 Canonical exposition condensed throughout; space reinvested in the article's own
 analysis (three-mechanism account of forced intimacy; occupational analysis; scope
@@ -73,7 +74,13 @@ section).
   two; abstract rewritten so it no longer duplicates the Introduction and the Mingus
   paragraph; summary paragraphs at pp. 22 and 25 of R1 given transitional work instead.
 - **APA fix**: two `Bouchet et al. (2025)` entries disambiguated as 2025a / 2025b;
-  `Peña-Guzmán` diacritics restored in the reference list.
+  `Peña-Guzmán` diacritics restored; `Wright, J. J.` initials and article details
+  completed; Graziano corrected to 27(2); reference list re-alphabetised (the
+  `Authors` entries and Stiker/Steele were out of order in R1).
+- **Sources verified**: see `VERIFICATION_R2.md`. Twelve claims were corrected,
+  including the account of *validisme*/*capacitisme* (rewritten from Primerano 2022),
+  the Huronia and Winterbourne View examples, and the prevalence figures. Two
+  references added: Primerano (2022) and Burns et al. (2013).
 
 ## Files
 
