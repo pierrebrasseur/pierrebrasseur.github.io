@@ -41,7 +41,7 @@ point at which a disclosure is converted into a non-event.
 | Discussion | 1605 | 1874 |
 | Conclusion (new heading) | — | 229 |
 | References | 1501 | 1538 |
-| **Body total** | **9177** | **9861** |
+| **Body total** | **9177** | **9935** |
 
 Canonical exposition condensed throughout; space reinvested in the article's own
 analysis (three-mechanism account of forced intimacy; occupational analysis; scope
@@ -79,8 +79,12 @@ section).
   `Authors` entries and Stiker/Steele were out of order in R1).
 - **Sources verified**: see `VERIFICATION_R2.md`. Twelve claims were corrected,
   including the account of *validisme*/*capacitisme* (rewritten from Primerano 2022),
-  the Huronia and Winterbourne View examples, and the prevalence figures. Two
-  references added: Primerano (2022) and Burns et al. (2013).
+  the Huronia and Winterbourne View examples, and the prevalence figures. Three
+  references added: Primerano (2022), Burns et al. (2013) and Flynn (2012).
+- **Second pass**: the four items left open by the first verification are resolved.
+  Primerano's pagination confirmed; the unverified productivity link dropped; the
+  Revillard over-attribution corrected; Huronia now cited to Rossiter and Rinaldi
+  (2018) and Winterbourne View to the Flynn serious case review.
 
 ## Files
 

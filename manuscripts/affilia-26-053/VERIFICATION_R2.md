@@ -32,9 +32,51 @@ resubmission.
 - **Brasseur & Rodriguez (2018)**, *Participations* 22(3), 139–158, DOI 10.3917/parti.022.0139 — the anonymized "Authors (2018)" citation carries the right year. (One Zotero filename in Drive dates it 2019; the journal record says 2018.)
 - **Citation integrity**: all 80 reference entries are cited in the body, every in-text citation resolves to an entry, and the list is now correctly alphabetised.
 
-## [verify at source] before resubmission
+## The four open items, resolved
 
-1. **Primerano (2022)** — verified from the abstract and indexing records only; the full text was not reachable. Confirm the page range (43–58), and confirm that the article supports the sentence linking *validisme* to earlier francophone work on disability and productivity.
-2. **The *valide*/*invalide* administrative lineage** — the claim that *invalidité* and *taux d'incapacité* are long-standing categories of French social insurance is well established and is attributed to Revillard (2020) and Ville et al. (2020); check that those two texts carry it as cited.
-3. **Huronia and Winterbourne View** — described from press and public record without formal citations. Add references if the journal expects them.
-4. **Graziano (2026)** — confirm 27(2) against the print issue.
+All four were followed up in a second pass. Direct fetching of scholarly hosts
+(OpenEdition, HAL, Cairn, Crossref, OpenAlex, Wiley, Taylor & Francis, SAGE,
+PubMed, Wikipedia) is refused by this session's egress policy, so the work was
+done through search records and the author's own library.
+
+1. **Primerano (2022) pagination — confirmed.** *Alter: European Journal of
+   Disability Research*, 16(2), 43–58, 2022, established from two independent
+   indexing records. The subtitle *Entre monde universitaire et monde militant*
+   has been added to the reference.
+2. **The sentence linking *validisme* to earlier work on disability and
+   productivity — dropped.** It rested on a single abstract summary that later
+   searches did not reproduce, and the argument did not need it. Primerano now
+   carries only the history of the two terms, which is solidly established.
+3. **Revillard (2020) and Ville et al. (2020) — one over-attribution corrected.**
+   Revillard's *Des droits vulnérables* is about the *reception* of rights and the
+   labour claiming them imposes on the claimant (files, evidence, deadlines,
+   medical examinations, via the MDPH), not about the lexical history of
+   *valide*/*invalide*. She is now cited for the former, which is what the argument
+   actually needs, and the inference we draw from it is marked as ours. Ville,
+   Fillion and Ravaud (2020), *Introduction à la sociologie du handicap: Histoire,
+   politiques et expérience* (2nd ed., De Boeck Supérieur, 272 pp.), is cited for
+   the policy history, within its stated scope.
+4. **Huronia and Winterbourne View — both now cited.** Rossiter and Rinaldi
+   (2018), already in the reference list, *is* the study of Huronia: a three-year
+   participatory project with survivors of the Orillia institution (1876–2009),
+   drawing on oral histories, ethnography, legal proceedings and archives. For
+   Winterbourne View, Flynn's serious case review is added, and it states the point
+   better than our paraphrase did: the nurse Terry Bryan reported the abuse to
+   Castlebeck, the provider, and to the Care Quality Commission, the national
+   regulator, was ignored by both, and went to the BBC; Flynn concluded that the
+   apparatus of oversight "was unequal to the task of uncovering the fact and
+   extent of abuses and crimes." That is the article's four-conditions argument in
+   the official record, so the passage now carries argument instead of illustration.
+5. **Graziano 27(2) — confirmed** by a second indexing record (volume 27,
+   article e70075, published online 1 March 2026). Worth a glance at the print
+   issue if you have Wiley access, but nothing now rests on it.
+
+## Still worth your eye
+
+Nothing blocking. Two residual items, both cheap to settle from your own PDFs:
+
+- **Primerano (2022)** — we never reached the full text. If your copy contradicts
+  anything in the three paragraphs on pp. 12–14, those paragraphs are the place to
+  look first.
+- **Ville et al. (2020)** — cited for the policy history at the level of the book's
+  stated scope. If you want a page-level citation there, you have the book.
