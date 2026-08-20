@@ -1,10 +1,10 @@
 # Source-verification log — Affilia-26-053 R2
 
 Every factual and bibliographic claim the revision introduced or relied on was
-checked against sources. Web fetching was blocked by the session's egress policy,
-so verification was done through search results and the author's own Drive; items
-marked **[verify at source]** should be confirmed against the full text before
-resubmission.
+checked against sources, in two passes. Direct fetching of scholarly hosts is
+refused by this session's egress policy, so verification was done through search
+records and the author's own Drive. The first pass found twelve errors, listed
+below; the second closed the four items it had left open.
 
 ## Errors found and corrected
 
@@ -30,7 +30,7 @@ resubmission.
 - **loi n° 2002-2 of 2 January 2002** *rénovant l'action sociale et médico-sociale*: the *charte des droits et libertés de la personne accueillie*, the *conseil de la vie sociale* and the *personne qualifiée* are all among its users'-rights instruments.
 - **Community treatment orders** were developed in response to deinstitutionalization; conditions typically include residence, attendance at appointments and contact with a worker, with recall to hospital for non-compliance; research finds professionals justify coercion by reference to a patient's "lack of insight" without asking whether the patient could participate in the decision — which is precisely the distribution of interpretive authority the article describes. **OCTET** (Burns et al., 2013, *The Lancet* 381(9878), 1627–33) found no reduction in readmission against a substantial curtailment of liberty. Added as a citation.
 - **Brasseur & Rodriguez (2018)**, *Participations* 22(3), 139–158, DOI 10.3917/parti.022.0139 — the anonymized "Authors (2018)" citation carries the right year. (One Zotero filename in Drive dates it 2019; the journal record says 2018.)
-- **Citation integrity**: all 80 reference entries are cited in the body, every in-text citation resolves to an entry, and the list is now correctly alphabetised.
+- **Citation integrity**: all 81 reference entries are cited in the body, every in-text citation resolves to an entry, and the list is now correctly alphabetised.
 
 ## The four open items, resolved
 
