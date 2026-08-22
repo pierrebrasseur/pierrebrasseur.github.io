@@ -287,6 +287,95 @@ intellectuels, qui prend de front la question du consentement que je signalais c
 
 ---
 
+## 3 quater. Les monographies, angle mort enfin traité
+
+Les trois réfutations de la passe 3 venaient toutes de livres. Passe 4 consacrée à les chercher
+pour eux-mêmes. Ce qui suit est le socle de la rubrique *Further Reading*, avec ce que chaque
+titre apporte plutôt qu'une simple liste.
+
+### Le noyau
+
+**Rembis, M. A. (2011). *Defining Deviance: Sex, Science, and Delinquent Girls, 1890–1960*.
+University of Illinois Press.**
+Étude de cas sur l'Illinois, à partir de milliers de dossiers de la State Training School de
+Geneva. Les réformateurs progressistes combinent une morale sexuelle de classe moyenne et le
+vocabulaire eugéniste pour construire une fille à problème dont la délinquance sexuelle et la
+faiblesse d'esprit sont **mutuellement constitutives**. C'est la thèse d'hypersexualisation de
+l'article, démontrée sur archives. Référence centrale du §4 du plan.
+
+**Kim, E. (2017). *Curative Violence: Rehabilitating Disability, Gender, and Sexuality in Modern
+Korea*. Duke University Press.**
+Prix Alison Piepmeier de la NWSA, décerné à une monographie marquante en études de genre et de
+sexualité contribuant aux feminist disability studies. Le meilleur contrepoids non occidental
+disponible.
+
+**Kulick, D. et Rydström, J. (2015). *Loneliness and Its Opposite: Sex, Disability, and the
+Ethics of Engagement*. Duke University Press.**
+L'opposition est maintenant sourcée précisément : au Danemark, les personnes lourdement
+handicapées sont accompagnées dans l'expression de leur sexualité ; en Suède, la politique de
+tolérance zéro envers le travail sexuel a exclu les personnes handicapées de toute assistance en
+la matière. Deux États-providence voisins, deux régimes opposés, et la variable est la politique
+sur le travail sexuel. Cela règle le manque danois signalé dans le plan et arme la section
+assistance sexuelle.
+
+**Cleall, E. (2022). *Colonising Disability: Impairment and Otherness Across Britain and Its
+Empire, c. 1800–1914*. Cambridge University Press.**
+Voir §6, lacune 3.
+
+**Walmsley, J. et Jarrett, S. (dir.) (2019). *Intellectual Disability in the Twentieth Century*.
+Policy Press. Accès ouvert.**
+Voir §6, lacune 1.
+
+**Kline, W. (2001). *Building a Better Race: Gender, Sexuality, and Eugenics from the Turn of the
+Century to the Baby Boom*. University of California Press.**
+Le sous-titre porte les trois termes de l'article.
+
+**Schalk, S. (2022). *Black Disability Politics*. Duke University Press. Accès ouvert sur
+OAPEN.**
+Archives du Black Panther Party et du National Black Women's Health Project, plus des entretiens
+avec des acteurs culturels noirs handicapés contemporains. Établit que le handicap est un enjeu
+politique central du militantisme noir depuis les années 1970. Le fait qu'il soit en accès
+ouvert facilite la vérification.
+
+### Deux ouvrages collectifs en accès ouvert qui règlent le Sud global
+
+Ils ne portent pas seulement sur le handicap, mais bien sur handicap **et sexualité**, ce qui les
+rend plus utiles encore que Cleall pour cet article.
+
+**Zhang, W., Bjørnstøl, E., Ding, P., Gao, W., Liu, H. et Liu, Y. (dir.) (2024). *Disability,
+Sexuality, and Gender in Asia: Intersectionality, Human Rights, and the Law*. Routledge. Accès
+ouvert (OAPEN).**
+Contributions de Chine, du Vietnam, du Myanmar, du Népal et du Japon, par des chercheurs **et des
+organisations de personnes handicapées**. Porte sur les droits — identité, travail, sécurité
+personnelle, droits sexuels — des femmes handicapées et des personnes LGBTIQ handicapées, et sur
+l'usage de la CDPH comme levier. Le fait que des organisations de personnes concernées cosignent
+répond à l'un des reproches que j'adressais au champ.
+
+**Hunt, X., Braathen, S. H., Chiwaula, M., Carew, M. T., Rohleder, P. et Swartz, L. (2021).
+*Physical Disability and Sexuality: Stories from South Africa*. Palgrave. Accès ouvert,
+doi:10.1007/978-3-030-55567-2.**
+Récits à la première personne, et un chapitre explicitement historique. L'ouvrage est centré sur
+le mythe selon lequel les personnes handicapées seraient incapables de sexualité ou dépourvues de
+sexualité — c'est-à-dire sur le régime de désexualisation, documenté hors d'Occident.
+
+**Observation qui vaut argument.** Rohleder et Swartz cosignent ce livre et signaient déjà la
+revue de 2009 sur handicap et VIH en Afrique australe repérée en passe 2. Autrement dit, le seul
+endroit où la littérature sur le sida et celle sur la sexualité handicapée se rejoignent est une
+équipe sud-africaine. La lacune n° 4 du §6 se précise encore : ce n'est pas que personne ne fait
+le lien, c'est qu'un seul collectif le fait, et depuis le Sud.
+
+### Le champ s'auto-évalue
+
+**Shakespeare, T. et Richardson, S. (2018). « The Sexual Politics of Disability, Twenty Years
+On ». *Scandinavian Journal of Disability Research*, 20(1), 82–91. Accès ouvert.**
+Reprise des entretiens menés avec des personnes handicapées britanniques en 1994–1996, vingt ans
+après (n = 8). Les auteurs résument le message du livre de 1996 d'une formule à citer telle
+quelle : *« the problem of disabled sexuality is not "how to do it" but "who to do it with" »*.
+Un bilan à vingt ans, écrit par l'auteur principal du livre fondateur, est exactement le type de
+pièce dont la rubrique *Discussion of the Literature* a besoin.
+
+---
+
 ## 4. Consensus établis
 
 **La double économie désexualisation / hypersexualisation est admise.** Le partage entre le corps
@@ -518,6 +607,18 @@ l'aggravation du risque de stérilisation forcée des femmes handicapées.
 d'Alter — European Society for Research on Disability, est le lieu de dépôt francophone
 spécialisé. Aucun numéro spécial genre et sexualité n'a été identifié par cette recherche ; à
 vérifier dans les archives de la revue plutôt que par le web.
+
+**Le cas belge manque au plan de l'article.** La section contemporaine aligne Pays-Bas, Suisse et
+France, et laisse de côté la Belgique alors que l'auteur y enseigne. L'ASBL ADITI wb coordonne
+l'accompagnement sexuel en Belgique francophone : c'est un quatrième régime national, de première
+main, et il ferait mauvais effet qu'il soit absent.
+
+Deux autres pistes francophones : le séminaire « Construire une histoire du handicap et de la
+surdité à travers les siècles », actif depuis 2021, qui réunit histoire du handicap, histoire
+sourde et *mad history* — la communauté à qui cet article s'adressera en français ; et la revue
+de littérature « Handicaps et sexualités » publiée par la FIRAH, utile comme état des lieux
+militant et professionnel. Marcel Nuss, *Handicaps et sexualités* (Dunod), reste le recueil de
+témoignages de référence, à citer comme source et non comme littérature secondaire.
 
 À explorer encore : la *Revue française des affaires sociales* 2021/1 (« Les effets de
 l'interaction du genre et du handicap : l'expérience de femmes handicapées en matière de

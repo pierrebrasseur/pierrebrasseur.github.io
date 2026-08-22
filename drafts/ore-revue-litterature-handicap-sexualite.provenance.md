@@ -63,6 +63,23 @@
 - Dossier francophone sur la stérilisation étoffé : Giami et Lavigne (1993), *Stériliser le
   handicap mental*, et la loi de 2001 sur la stérilisation des personnes sous tutelle.
 
+## Ce que la passe 4 a réglé
+
+Passe consacrée aux monographies, puisque les trois réfutations de la passe 3 venaient de livres.
+
+- Socle de monographies constitué (§3 quater), avec ce que chaque titre apporte : Rembis,
+  Kim, Kulick et Rydström, Cleall, Walmsley et Jarrett, Kline, Schalk.
+- Deux ouvrages collectifs en accès ouvert portant sur handicap **et** sexualité hors Occident :
+  *Disability, Sexuality, and Gender in Asia* (Routledge, 2024) et *Physical Disability and
+  Sexuality: Stories from South Africa* (Palgrave, 2021).
+- L'opposition Danemark / Suède de Kulick et Rydström enfin sourcée dans son détail, et
+  répercutée dans le plan de l'article.
+- Shakespeare et Richardson (2018), bilan à vingt ans du livre fondateur de 1996, avec une
+  formule citable.
+- Le cas belge, absent du plan alors que l'article s'écrit depuis l'ULB : ASBL ADITI wb.
+- Lacune n° 4 encore précisée : le lien sida / sexualité handicapée est fait par une seule
+  équipe, sud-africaine (Rohleder et Swartz, présents en 2009 comme en 2021).
+
 ## Ce qui reste à faire pour consolider
 
 1. Lire les textes intégraux depuis un accès institutionnel ULB, en priorité Rubin (2012),
@@ -72,8 +89,11 @@
 4. Trouver la littérature monographique, qu'aucun des deux corpus ne restitue.
 5. Le quota Scite gratuit est épuisé. Un accès complet permettrait de creuser les pistes des
    §3 bis et 3 ter.
-6. Chercher systématiquement les monographies, angle mort commun aux deux corpus d'articles :
-   les deux lacunes réfutées en passe 3 l'ont été par des livres.
-7. Vérifier sur source primaire la loi française de 2001, la condition de stérilisation à
+6. Lire les monographies du §3 quater. Aucune n'a pu être ouverte ici : `oapen.org`,
+   `doabooks.org`, `books.openedition.org`, `hal.science`, `theses.fr` et
+   `eprints.whiterose.ac.uk` sont tous bloqués par la politique réseau, y compris pour les
+   titres en accès ouvert. Le socle repose sur des notices et des résumés d'éditeur.
+7. Vérifier ADITI wb et le dispositif belge sur source directe.
+8. Vérifier sur source primaire la loi française de 2001, la condition de stérilisation à
    l'admission en établissement signalée pour la France, la Belgique et la Hongrie, et l'alerte
    ONU de mars 2025.

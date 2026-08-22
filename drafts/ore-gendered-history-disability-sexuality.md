@@ -302,6 +302,15 @@ une histoire américano-européenne, et l'ORE est lue internationalement.
     handicapées. Question de l'assistance sexuelle », adopté le 4 octobre 2012 et rendu public en
     mars 2013, sur saisine de Roselyne Bachelot-Narquin en 2011. Le comité refuse d'en faire une
     activité professionnelle, au nom du principe de non-patrimonialité du corps humain.
+  - **Belgique francophone** : l'ASBL ADITI wb coordonne l'accompagnement sexuel. À ajouter, son
+    absence se remarquerait — l'article est écrit depuis l'ULB.
+  - **Danemark et Suède, le contraste qui explique les autres.** Kulick et Rydström (2015) : au
+    Danemark, les personnes lourdement handicapées sont accompagnées dans l'expression de leur
+    sexualité ; en Suède, la tolérance zéro envers le travail sexuel les a exclues de toute
+    assistance. Deux États-providence voisins, deux régimes opposés, et la variable discriminante
+    est la politique sur le travail sexuel, pas la politique du handicap. C'est le meilleur
+    argument disponible contre une lecture de l'assistance sexuelle en termes de progrès ou de
+    retard.
 
   L'épisode Pro Infirmis est le meilleur candidat pour ouvrir cette section. Une association
   financée par la générosité publique se retrouve obligée d'abandonner un dispositif sexuel parce
