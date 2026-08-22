@@ -445,6 +445,126 @@ le XIX<sup>e</sup> siècle fait encore l'objet d'alertes onusiennes en 2025.
 
 ---
 
+## 3 sexies. Trois textes enfin lus
+
+Passe 6. Des outils capables de récupérer le texte intégral côté serveur ont permis de lire ce
+que je ne citais jusqu'ici que par des notices. Trois lectures, trois apports, dont une
+proposition d'ouverture pour l'article.
+
+### Cleall, introduction : Tilly Aston, meilleure ouverture que Carrie Buck
+
+L'introduction de *Colonising Disability* s'ouvre sur Tilly Aston (1873–1947), aveugle
+australienne. Le portrait est plus utile à cet article que les deux ouvertures envisagées dans le
+plan.
+
+Née à Carisbrook (Victoria), fille d'un cordonnier mort en 1881, d'une mère devenue sage-femme
+pour faire vivre la famille. Aveugle complètement avant sept ans. Apprend le braille auprès de
+Thomas James, missionnaire itinérant qui avait perdu les deux yeux et un bras dans un accident de
+mine. Entre à neuf ans au Victorian Asylum and School for the Blind, ouvert en 1866. Première
+fille aveugle à obtenir son certificat de fin d'études secondaires, première Australienne aveugle
+à entrer à l'université — sans pouvoir achever son diplôme, faute de livres en braille et à cause
+de la maladie provoquée par le stress des études. Cofonde l'Association of Braille Writers (1894)
+et l'Association for the Advancement of the Blind (1895). Devient directrice du Royal Victorian
+Institute for the Blind **malgré l'hostilité suscitée par une enseignante aveugle**, une personne
+voyante étant jugée mieux adaptée au poste. Espérantiste, correspondante d'Helen Keller.
+
+L'anecdote du train, tirée de ses mémoires : une passagère âgée s'exclame « Oh, Ned, elles sont
+aveugles ! Pauvres petites ! Quelle horreur ! Elles seraient mieux dans leurs tombes ! », puis
+demande aux fillettes si elles savent se nourrir et s'habiller seules, et si elles sont
+« sourdes et muettes en plus ». Les filles éclatent de rire.
+
+**Ce qui rend Aston supérieure à Carrie Buck comme ouverture.** Cleall ne s'arrête pas à la
+victime lucide. Aston a aussi articulé des idéologies racialisées depuis sa position de blanche.
+Son poème « Black Wanda » raconte un enfant aborigène aveugle mort « de chagrin », et une note de
+ses mémoires généralise le cas à tous les Aborigènes aveugles en s'appuyant sur le régisseur de
+la station de Lake Tyers et sur Baldwin Spencer. Elle produit une revue missionnaire pour enfants
+aveugles de Chine, *The Book of Opals*, publiée en lien avec la Mission to the Blind in Heathen
+and Bible Lands. Elle fait campagne pour le droit de vote des Australiens aveugles — **blancs**.
+
+Une femme handicapée, à la fois objet de la condescendance validiste et agent de la hiérarchie
+raciale, dans une colonie et non dans la métropole. Ouvrir là-dessus interdit d'emblée le récit
+d'oppression simple, installe le genre et la race ensemble dès la première page, et prend appui
+sur le livre qui porte la section empire. Carrie Buck reste disponible pour la section eugénisme.
+
+Structure annoncée par Cleall : chapitre 1 sur les attitudes liant cécité et impuissance,
+chapitre 2 sur les institutions qui se multiplient au XIX<sup>e</sup> siècle pour éduquer et
+« civiliser » les personnes handicapées, chapitre 5 sur les colons sourds et leur « deaf world »,
+en écho au « blind world » d'Aston. Question des restrictions à l'immigration également traitée.
+
+### Stace : ce que l'archive des commissions ne contient pas
+
+La lecture complète ajoute des faits, et surtout deux réserves méthodologiques décisives pour la
+rubrique *Primary Sources*.
+
+Les faits : l'institutionnalisation culmine en Nouvelle-Zélande des années 1950 aux années 1970 ;
+la désinstitutionnalisation s'amorce après la recommandation d'une enquête gouvernementale de
+1973 ; la dernière institution psychopédique, le Kimberley Centre, ferme en 2006. Lake Alice,
+grand hôpital psychiatrique du Manawatū-Whanganui actif des années 1950 aux années 1990 et gros
+employeur régional, a hébergé des milliers de personnes, dont beaucoup y ont passé leur vie
+entière sous tutelle légale de l'État. À la fin des années 1980, J. B. Munro, dirigeant de
+l'organisation IHC, vient en autocar chercher des résidents autorisés à être relogés ; **d'autres
+saisissent l'occasion, montent dans le car et refusent d'en descendre**.
+
+En 1999, la première ministre Helen Clark ordonne une enquête et présente des excuses officielles
+assorties d'indemnisations. Ses excuses visaient explicitement deux arguments opposés aux
+plaignants : que ces faits étaient normaux à l'époque, et qu'ils étaient trop anciens pour être
+encore pertinents. Un chef de gouvernement réfutant l'argument de l'anachronisme, c'est une prise
+de position historiographique utilisable telle quelle. Le psychiatre Selwyn Leeks n'a jamais été
+inculpé, étant passé en Australie. La commission actuelle est annoncée le 1<sup>er</sup> février
+2018 et couvre 1950–1999 ; la demande d'étendre la période jusqu'au présent a été rejetée. Sur
+cinq commissaires, Paul Gibson est le seul à avoir une expérience vécue du handicap.
+
+**Les deux réserves.** D'abord, Stace écrit que la commission a recruté « beaucoup de juristes,
+peu d'historiens » : ce n'est pas une enquête historique inclusive mais une procédure légale
+formelle, et l'archive porte cette marque. Ensuite, et c'est plus grave : beaucoup de survivants
+handicapés n'utilisent pas la parole et n'ont qu'un contact minimal avec les procédures
+officielles. Les dispositifs antérieurs — Confidential Forum, puis Confidential Listening and
+Assistance Service clos en 2015 avec de nombreux demandeurs non entendus — ont eux-mêmes reconnu
+n'être ni dotés ni compétents pour recueillir la parole des survivants des *back wards* ou des
+personnes les plus lourdement handicapées.
+
+Autrement dit, l'archive des commissions sous-représente structurellement ceux qu'elle vise à
+réparer. C'est la formulation exacte de la réserve que j'avais posée en termes vagues en passe 3.
+
+### Shakespeare et Richardson : ce que dit vraiment l'enquête
+
+Le résumé complet corrige et précise. Échantillon (n = 8) : deux hommes hétérosexuels, deux
+femmes hétérosexuelles, deux hommes gays, deux femmes lesbiennes ; deux personnes originaires du
+Moyen-Orient, l'une arabe, l'autre juive ; une personne avec difficultés d'apprentissage, une se
+définissant d'abord comme survivante d'un trouble psychique, une déficiente visuelle, cinq avec
+des déficiences physiques. Région londonienne et Nord-Est de l'Angleterre. Toutes sauf une en
+emploi.
+
+Trois résultats à retenir :
+
+1. **Le vieillissement apporte une plus grande acceptation de soi et rend la déficience moins
+   saillante** — mais s'accompagne pour certains de pathologies chroniques associées qui
+   compliquent la vie. C'est un résultat empirique sur vieillissement et sexualité handicapée, et
+   il oblige à corriger encore ma lacune n° 2.
+2. L'accessibilité s'est massivement améliorée — trouver un lieu de rendez-vous accessible avec
+   toilettes est devenu possible, les bus le sont dans la plupart des grandes villes — mais les
+   attitudes sociales envers la sexualité des personnes handicapées n'ont pas assez changé.
+3. **Les politiques d'austérité britanniques menacent l'indépendance durement acquise.**
+
+### Ce que les trois lectures donnent ensemble : une thèse matérielle
+
+Trois constats indépendants convergent, et forment l'argument le plus solide de la section
+contemporaine de l'article.
+
+- Pro Infirmis abandonne son programme en 2003 parce que ses donateurs se détournent.
+- ADITI fonctionne depuis 2014 parce qu'une subvention régionale la finance.
+- Les personnes interrogées par Shakespeare et Richardson voient l'austérité menacer une
+  autonomie acquise, alors même que l'accessibilité matérielle a progressé et que le droit n'a
+  pas reculé.
+
+Trois pays, trois dispositifs, une même leçon : ce qui détermine l'autonomie sexuelle des
+personnes handicapées n'est ni l'état du droit ni celui des mentalités, c'est l'infrastructure
+matérielle qui la finance. Cela vaut aussi rétrospectivement — les institutions du
+XIX<sup>e</sup> siècle étaient d'abord des budgets — et cela donne à l'article une conclusion qui
+n'est ni optimiste ni catastrophiste, mais matérialiste.
+
+---
+
 ## 4. Consensus établis
 
 **La double économie désexualisation / hypersexualisation est admise.** Le partage entre le corps
@@ -557,17 +677,21 @@ Six manques, dont quatre sont documentables à même la distribution du corpus.
    Mental Retardation » (2001), reste l'un des rares textes à poser le problème comme à la fois
    historique et féministe.
 
-2. **Le vieillissement existe comme problème de service, pas comme histoire.** Formulation
-   révisée après la passe 2. Sur les 139 notices, un seul article croise âge, genre et corporéité
-   non conforme : Hinchy (2024), « Histories of aging and gender variability: Old age in the
-   nineteenth-century "Hijra"/"Eunuch" archive ». Hors corpus Wiley, il existe bien une
-   littérature — Kåhlin, Kjellberg et Nord (2013) sur le vécu du vieillissement des personnes
-   déficientes intellectuelles en Suède, Bowen *et al.* (2025) sur l'accès aux services de santé
-   sexuelle des adultes handicapés de plus de 45 ans en Angleterre, Minhat *et al.* (2019) sur
-   l'intimité des couples âgés en Malaisie, où le handicap ressort comme prédicteur d'intimité
-   sexuelle dégradée. Mais rien d'historique. Le manque n'est pas l'absence de travaux, c'est
-   l'absence d'une **histoire** de la sexualité des personnes handicapées âgées. Recoupe une des
-   enquêtes en cours de l'auteur.
+2. **Le vieillissement : lacune revue deux fois, et désormais très étroite.** Formulation
+   d'origine, l'absence pure. Après la passe 2, une littérature de services : Kåhlin, Kjellberg et
+   Nord (2013) sur le vécu du vieillissement des personnes déficientes intellectuelles en Suède,
+   Bowen *et al.* (2025) sur l'accès aux services de santé sexuelle des adultes handicapés de plus
+   de 45 ans en Angleterre, Minhat *et al.* (2019) sur l'intimité des couples âgés en Malaisie, où
+   le handicap ressort comme prédicteur d'intimité dégradée. Après la passe 6, un résultat
+   empirique de fond : Shakespeare et Richardson (2018) établissent que **le vieillissement
+   apporte une plus grande acceptation de soi et rend la déficience moins saillante**, tout en
+   amenant pour certains des pathologies chroniques associées.
+
+   Ce qui reste, et qui est défendable : il n'existe pas d'**histoire** de la sexualité des
+   personnes handicapées âgées. Les travaux existants sont contemporains, et le seul texte
+   historique croisant âge, genre et corporéité non conforme dans les 139 notices reste Hinchy
+   (2024) sur les archives *hijra* du XIX<sup>e</sup> siècle. Recoupe une des enquêtes en cours de
+   l'auteur.
 
 3. **~~Le Sud global est représenté par des cas isolés, sans synthèse.~~ Réfutée : la synthèse
    existe.** Les cas isolés sont bien là — Vaidya (2023) sur l'Inde, Chouinard (2013) sur le

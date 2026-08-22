@@ -11,6 +11,8 @@
      violences, plus trois requêtes web francophones.
   4. Recherche web consacrée aux monographies.
   5. Recherche web de vérification, les serveurs académiques n'étant plus joignables.
+  6. Lecture du texte intégral de trois sources en accès ouvert, au moyen d'outils récupérant les
+     pages côté serveur — ce que la politique réseau locale interdisait jusque-là.
 - **Sources retenues :** 139 notices conservées dans le corpus brut
   (`ore-revue-litterature-handicap-sexualite.corpus.md`), dont une quarantaine discutées
   nommément dans la revue. Trois références francophones de premier plan : Giami (2016),
@@ -84,6 +86,28 @@ Passe consacrée aux monographies, puisque les trois réfutations de la passe 3 
 - Le cas belge, absent du plan alors que l'article s'écrit depuis l'ULB : ASBL ADITI wb.
 - Lacune n° 4 encore précisée : le lien sida / sexualité handicapée est fait par une seule
   équipe, sud-africaine (Rohleder et Swartz, présents en 2009 comme en 2021).
+
+## Ce que la passe 6 a réglé
+
+Première passe où des textes ont pu être lus intégralement plutôt que résumés.
+
+- **Une ouverture d'article trouvée.** L'introduction de Cleall porte sur Tilly Aston
+  (1873–1947), aveugle australienne, à la fois objet de la condescendance validiste et agent de
+  la hiérarchie raciale. Meilleure ouverture que Carrie Buck : elle interdit le récit
+  d'oppression simple, pose genre et race ensemble, et sort du cadre anglo-américain. Versée au
+  plan comme premier choix.
+- **Les réserves sur l'archive des commissions, précisées.** Stace écrit que la commission
+  néo-zélandaise a recruté beaucoup de juristes et peu d'historiens, et que les dispositifs de
+  recueil ont reconnu n'être ni dotés ni compétents pour entendre les survivants des *back
+  wards*. L'archive sous-représente structurellement ceux qu'elle vise à réparer.
+- **Excuses de Helen Clark (1999)**, visant explicitement l'argument de l'anachronisme.
+- **Lacune n° 2 resserrée une seconde fois** : Shakespeare et Richardson établissent que le
+  vieillissement apporte une plus grande acceptation de soi et rend la déficience moins
+  saillante. Ce qui subsiste est l'absence d'une *histoire*, pas d'une littérature.
+- **Une thèse matérielle** dégagée de la convergence de trois constats indépendants — Pro
+  Infirmis 2003, ADITI depuis 2014, austérité britannique chez Shakespeare et Richardson : ce qui
+  détermine l'autonomie sexuelle des personnes handicapées n'est ni le droit ni les mentalités,
+  mais l'infrastructure matérielle qui la finance.
 
 ## Ce qui reste à faire pour consolider
 

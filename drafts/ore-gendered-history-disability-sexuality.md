@@ -116,18 +116,35 @@ Keywords proposés : *disability history*, *sexuality*, *gender*, *eugenics*, *s
 
 ### 1. Introduction — « A Gendered Double Bind » (~800 mots)
 
-Ouvrir sur un cas qui condense les deux régimes. Deux candidats :
+Ouvrir sur un cas qui condense les deux régimes. Trois candidats, par ordre de préférence après
+lecture des sources.
 
-- Carrie Buck (*Buck v. Bell*, 1927) : jeune femme pauvre, enceinte à la suite d'un viol,
-  classée « feeble-minded », stérilisée au nom de sa fertilité excessive. Le cas le plus connu,
-  donc le plus attendu.
-- Le double standard des mariages sourds au tournant du siècle : les sourds hommes lettrés
-  autorisés à se marier entre eux tant qu'ils épousaient des entendantes, les sourdes soumises à
-  une pression eugéniste bien plus forte. Moins attendu, plus précisément genré.
+**1. Tilly Aston (1873–1947), à retenir.** Aveugle australienne, sur qui Esme Cleall ouvre
+*Colonising Disability*. Première fille aveugle de Victoria à obtenir son certificat de fin
+d'études, première Australienne aveugle à entrer à l'université sans pouvoir achever son diplôme
+faute de livres en braille, cofondatrice de deux associations, directrice du Royal Victorian
+Institute for the Blind malgré l'hostilité suscitée par une enseignante aveugle. Dans ses
+mémoires, une passagère de train s'exclame devant elle et ses camarades : « Elles seraient mieux
+dans leurs tombes ! », puis demande si elles savent se nourrir seules. Les filles rient.
 
-Préférer le second si les sources tiennent, le premier sinon. Poser ensuite l'argument
-désexualisation / hypersexualisation, l'échelle chronologique et géographique, et l'avertissement
-sur les sources (voir §5).
+Ce qui la rend supérieure à Carrie Buck : Aston n'est pas seulement une victime lucide. Elle
+articule aussi des idéologies racialisées depuis sa position de blanche — le poème « Black
+Wanda » sur un enfant aborigène aveugle mort « de chagrin », généralisé en note à tous les
+Aborigènes aveugles ; une revue missionnaire destinée aux enfants aveugles de Chine ; une
+campagne pour le droit de vote des Australiens aveugles *blancs*. Une femme handicapée à la fois
+objet de la condescendance validiste et agent de la hiérarchie raciale, dans une colonie et non
+dans la métropole. Ouvrir là-dessus interdit d'emblée le récit d'oppression simple, pose le genre
+et la race ensemble dès la première page, et signale que l'article ne sera pas anglo-américain.
+
+**2. Carrie Buck** (*Buck v. Bell*, 1927) : jeune femme pauvre, enceinte à la suite d'un viol,
+classée « feeble-minded », stérilisée au nom de sa fertilité excessive. Le cas le plus connu,
+donc le plus attendu. À garder pour la section eugénisme plutôt que pour l'ouverture.
+
+**3. Le double standard des mariages sourds** au tournant du siècle. Attention, voir la
+correction sur Bell en §4 avant de s'y engager.
+
+Poser ensuite l'argument désexualisation / hypersexualisation, l'échelle chronologique et
+géographique, et l'avertissement sur les sources (voir §11).
 
 ### 2. « Before the Asylum: Fitness, Marriage, and Impairment » (~800 mots)
 
@@ -391,10 +408,24 @@ Décrire les fonds et leurs biais plutôt que d'énumérer :
 - Dossiers judiciaires de stérilisation et de tutelle.
 - **Les commissions d'enquête publiques sur les violences en institution.** Archive neuve et
   massive, encore peu exploitée par les historiens : la *Royal Commission of Inquiry into Abuse
-  in Care* néo-zélandaise, les *Royal Commissions* australiennes, les commissions irlandaises.
-  Elles collectent, versent et publient des témoignages sur exactement l'objet de cet article.
-  Signaler aussi leur limite : ce sont des archives produites par un dispositif de réparation,
-  qui met en forme les récits qu'il recueille.
+  in Care* néo-zélandaise (annoncée le 1<sup>er</sup> février 2018, période 1950–1999), les
+  *Royal Commissions* australiennes, les commissions irlandaises.
+
+  **Deux réserves à énoncer, précises et documentées par Stace (2022).** La commission
+  néo-zélandaise a recruté beaucoup de juristes et peu d'historiens : c'est une procédure légale
+  formelle, non une enquête historique, et l'archive porte cette marque. Surtout, beaucoup de
+  survivants handicapés n'utilisent pas la parole et n'ont qu'un contact minimal avec les
+  procédures officielles ; les dispositifs antérieurs ont eux-mêmes reconnu n'être ni dotés ni
+  compétents pour recueillir la parole des survivants des *back wards*. L'archive
+  sous-représente donc structurellement ceux qu'elle vise à réparer — c'est la version
+  contemporaine du problème posé plus haut pour les archives d'internement du
+  XIX<sup>e</sup> siècle, et le dire ainsi donne à l'article une continuité méthodologique de
+  bout en bout.
+
+  Pièce utilisable : en 1999, la première ministre Helen Clark présente des excuses officielles
+  visant explicitement deux arguments opposés aux plaignants — que ces faits étaient normaux à
+  l'époque, et qu'ils étaient trop anciens pour rester pertinents. Un chef de gouvernement qui
+  réfute l'argument de l'anachronisme, cela se cite.
 - Les enquêtes et rapports parlementaires anciens, qui disent parfois tout dans leur seul
   intitulé. Le *Committee of Inquiry into Mental Defectives and Sexual Offenders* néo-zélandais
   de 1925 traite dans un même document les déficients mentaux et les délinquants sexuels : c'est
