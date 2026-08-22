@@ -7,29 +7,39 @@ Préparée pour l'article commandé « A Gendered History of Disability and Sexu
 
 ## 1. Méthode, et ce qu'elle ne permet pas de dire
 
-Douze requêtes sémantiques sur Scholar Gateway (corpus Wiley Online Library, mise à jour
-mai 2026) couvrant huit axes, plus une dizaine de requêtes web ciblées sur la littérature
-francophone. 139 articles uniques retenus, dont 29 en accès ouvert.
+Deux passes.
 
-Trois limites à garder en tête, parce qu'elles conditionnent tout ce qui suit.
+**Passe 1 — cartographie.** Douze requêtes sémantiques sur Scholar Gateway (corpus Wiley Online
+Library, mise à jour mai 2026) couvrant huit axes, plus une dizaine de requêtes web sur la
+littérature francophone et les sources officielles. 139 articles uniques, dont 29 en accès
+ouvert.
 
-**Le corpus interrogé est un corpus d'éditeur.** Scholar Gateway indexe Wiley. Les monographies
-en sont absentes, et les presses universitaires qui portent l'essentiel de ce champ le sont
-aussi : Duke, Michigan, Minnesota, NYU, Chicago. Autrement dit, les livres qui *font* la
-discipline — McRuer, Kafer, Garland-Thomson, Schalk, Kim, Siebers, Nielsen, Burch — ne
-remontent pas dans les résultats, sauf par leurs comptes rendus. La cartographie ci-dessous
-décrit donc la littérature de revue, pas le champ entier.
+**Passe 2 — vérification et comblement.** Recherches sur Scite (corpus multi-éditeurs, 210
+millions de références, avec résumés et extraits de texte intégral) pour trois choses : lire
+réellement les textes dont j'avais reconstruit l'argument à partir du titre, chercher hors du
+catalogue Wiley les manques repérés en passe 1, et régler les attributions douteuses. Cette
+seconde passe a corrigé une erreur de fond et deux erreurs factuelles, détaillées au §3.
 
-**Les textes intégraux n'ont pas été lus.** L'environnement de travail bloque `oxfordre.com`,
-`academic.oup.com`, `link.springer.com` et la plupart des domaines d'éditeurs. Ce qui est
-disponible : les notices bibliographiques complètes et des extraits. Les affirmations qui
-suivent portent donc sur ce que le corpus *montre* — qui publie quoi, où, quand — et non sur
-les arguments détaillés d'articles non lus. Les endroits où j'avance une thèse de fond issue de
-la connaissance générale du champ plutôt que d'une lecture faite ici sont signalés
-« [hors corpus] ».
+Limites qui subsistent.
+
+**La passe 1 reposait sur un corpus d'éditeur unique.** Scholar Gateway indexe Wiley. Les
+monographies en sont absentes, et les presses universitaires qui portent l'essentiel de ce champ
+le sont aussi : Duke, Michigan, Minnesota, NYU, Chicago. Les livres qui *font* la discipline —
+McRuer, Kafer, Garland-Thomson, Schalk, Kim, Siebers, Nielsen, Burch — n'y remontent que par
+leurs comptes rendus. La passe 2 a partiellement corrigé ce biais, sans le lever : Scite donne
+résumés et citations, pas les livres eux-mêmes.
+
+**Les articles n'ont pas été lus intégralement.** `oxfordre.com`, `academic.oup.com`,
+`link.springer.com` et la plupart des domaines d'éditeurs sont bloqués par la politique réseau.
+Ce qui a pu être lu en passe 2 : résumés complets, extraits de texte intégral pour les articles
+en accès ouvert, et surtout les *Smart Citations* — les phrases exactes par lesquelles d'autres
+articles citent un texte, qui sont une forme de preuve textuelle. Les affirmations reposant sur
+un résumé lu sont désormais distinguées de celles reposant sur un titre seul ; ces dernières
+sont signalées « [titre seul] », et les thèses de fond venant de la connaissance générale du
+champ « [hors corpus] ».
 
 **Le corpus est anglophone.** La littérature francophone a été cherchée séparément, par le web,
-et n'est pas comparable en exhaustivité. Elle figure au §7.
+et n'est pas comparable en exhaustivité. Elle figure au §8.
 
 > **Avertissement sur les dates, à ne pas négliger.** Pour les articles antérieurs à la
 > numérisation, les notices Wiley portent l'année de mise en ligne et non l'année de parution.
@@ -60,11 +70,17 @@ sur des résumés.
 | *History* | 4 | Histoire générale |
 
 Dans ce corpus, l'intersection genre / handicap / sexualité s'écrit d'abord en philosophie
-féministe et en histoire du genre. Réserve à poser tout de suite : *Hypatia* et *Gender &
-History* sont l'une et l'autre publiées par Wiley, et leur position de tête tient donc peut-être
-au catalogue interrogé autant qu'à la réalité du champ. Le classement relatif est fragile ; ce
-qui l'est moins, c'est que ces deux revues publient régulièrement sur le sujet et constituent des
-lieux de dépôt légitimes.
+féministe et en histoire du genre. Réserve à poser tout de suite : les deux revues de tête
+étaient hébergées par Wiley au moment où leurs archives ont été numérisées, de sorte que leur
+position doit quelque chose au catalogue interrogé. *Hypatia* est aujourd'hui publiée par
+Cambridge University Press. Le classement relatif est donc fragile ; ce qui l'est moins, c'est
+que ces deux revues publient régulièrement sur le sujet et constituent des lieux de dépôt
+légitimes.
+
+La passe 2 renforce plutôt qu'elle n'affaiblit ce constat, en faisant remonter des travaux
+majeurs dans *Signs* (University of Chicago Press) et dans le *Journal of the Gilded Age and
+Progressive Era* (CUP) : le sujet vit bien dans les revues de genre et d'histoire, pas seulement
+chez Wiley.
 
 Cela reste un argument pour l'article : le lectorat de l'*ORE of Gender and Women's History* est
 en partie celui qui produit déjà cette littérature. L'article ne s'adresse pas à un public à
@@ -85,10 +101,10 @@ C'est le numéro à citer si l'on ne doit en citer qu'un.
 **2. *Gender & History* 31(2), 2019 — le forum sur l'histoire genrée de la sexologie.**
 Sutton et Leng, « Forum Introduction: Rethinking the Gendered History of Sexology » ; Leng,
 « Historicising "Compulsory Able-bodiedness": The History of Sexology meets Queer Disability
-Studies » ; Mitra, « Review Essay: Sexual Science as Global History ». L'article de Leng est la
-pièce la plus directement utile de tout le corpus : il fait exactement la jonction que l'article
-ORE doit faire, entre histoire de la sexualité et *queer disability studies*, et il le fait dans
-la revue sœur de l'encyclopédie.
+Studies » ; Mitra, « Review Essay: Sexual Science as Global History ». C'est le précédent le plus
+proche : un forum entier, dans la revue sœur de l'encyclopédie, consacré à relire l'histoire de
+la sexologie par le genre et le handicap. Sur la portée exacte de l'article de Leng, voir la
+correction au §3.
 
 **3. *Gender & History* 28(3), 2016 — le corps mutilé de guerre comme objet genré.**
 Powell, « About-Face: Gender, Disfigurement and the Politics of French Reconstruction,
@@ -125,7 +141,107 @@ l'injustice reproductive.
 
 ---
 
-## 3. Consensus établis
+## 3. Ce que la lecture des textes a corrigé
+
+Trois reconstructions faites à partir de titres, confrontées aux résumés réels. Une était juste,
+une était fausse, une était trop vague. C'est le rendement de la seconde passe, et l'illustration
+de ce que vaut une bibliographie non lue.
+
+**Juste, et plus riche que prévu — Stubblefield (2007).** Le résumé confirme la thèse et fournit
+des données que je n'avais pas : entre 1927 et 1957, environ 60 000 Américains classés
+*feebleminded* ou *insane* ont été stérilisés dans des institutions d'État ; 60 % étaient des
+femmes, et une large majorité était blanche et pauvre. La thèse : la faiblesse d'esprit a
+fonctionné comme un concept parapluie liant ethnicité « off-white », pauvreté et défaut de
+caractère moral pensé en termes de genre, et à ce titre comme le signe d'une **blancheur
+souillée**. À verser directement au §4 de l'article.
+
+**Fausse — Johnson (2015, et non 2014).** J'avais écrit que la critique *crip* objectait à
+Halberstam que l'échec n'est pas choisi quand il est imposé. Ce n'est pas l'argument. Johnson
+conteste la lecture d'Erika Kohut, dans *La Pianiste*, comme figure d'angoisse postcoloniale
+plutôt que comme figure de handicap psychosocial, et propose le trouble de la personnalité
+borderline comme optique critique. Le reproche adressé à la théorie queer est celui de
+l'**exploitation métaphorique** des subjectivités minoritaires : elle les lit pour leur
+résonance figurée au lieu de les lire littéralement. C'est un argument sur la métaphorisation de
+la folie, pas sur la volonté. Ma version aurait été une contresens publié.
+
+**Trop vague — Leng (2019).** Je la présentais comme la jonction générale entre histoire de la
+sexualité et *queer disability studies*. Les intertitres de l'article montrent un objet bien plus
+resserré : la sexologie féminine dans l'Allemagne du début du XX<sup>e</sup> siècle, lue au prisme
+du handicap. À citer comme étude de cas allemande, pas comme synthèse. À noter aussi : quatre
+publications citantes seulement. L'article est sous-cité, et une reprise dans une encyclopédie
+Oxford lui donnerait la visibilité qui lui manque.
+
+**Attribution réglée.** Le dossier *The Disability Rights Critique of Prenatal Genetic Testing:
+Reflections and Recommendations* est bien d'Erik Parens et Adrienne Asch, *Hastings Center
+Report* 29(5), 1999, avec une reprise en 2003 dans *Mental Retardation and Developmental
+Disabilities Research Reviews* 9(1), 40–47. Les deux versions cumulent plus de 500 publications
+citantes. Détail qui vaut une phrase dans l'article : Adrienne Asch est la même personne que la
+codirectrice de *Women with Disabilities* (1988). La chercheuse qui fonde les feminist disability
+studies est celle qui, onze ans plus tard, ouvre le front du dépistage prénatal. Une trajectoire
+individuelle qui tient les deux moments du champ.
+
+---
+
+## 3 bis. Deux terrains retrouvés hors du corpus Wiley
+
+La passe 1 concluait à l'absence quasi totale de la surdité et de l'intersexuation. C'était un
+artefact du catalogue. Les deux existent, et les deux valent mieux qu'une mention.
+
+### Surdité : une histoire à ne pas raconter comme on la raconte
+
+Greenwald, B. H. et Van Cleve, J. V. (2014). « "A Deaf Variety of the Human Race": Historical
+Memory, Alexander Graham Bell, and Eugenics ». *Journal of the Gilded Age and Progressive Era*,
+14(1), 28–48.
+
+**Avertissement à prendre au sérieux avant d'écrire.** Le récit courant — celui que le plan de
+l'article reprenait — fait de Bell le promoteur eugéniste des restrictions au mariage entre
+sourds. Greenwald et Van Cleve soutiennent que cette mémoire est déformée, par l'orgueil de Bell
+lui-même et par la tendance des historiens à confondre deux faces distinctes de son attitude.
+Bell craignait que la différence en soi produise l'inégalité et espérait améliorer la société par
+des décisions reproductives informées ; pris dans un environnement eugéniste qu'il jugeait
+alarmant, il a cherché à faire échec aux eugénistes qui voulaient s'attaquer aux droits
+reproductifs des sourds. Une encyclopédie Oxford qui reconduirait la version simple ferait
+exactement ce que cet article reproche à la discipline.
+
+Deux détails à garder, l'un et l'autre vérifiés :
+- L'adresse de 1883 sur la « variété sourde de l'espèce humaine » a été prononcée devant la
+  **National Academy of Sciences**, et argumentait notamment sur le coût de l'éducation des
+  sourds et la charge que les écoles résidentielles représentaient pour les États.
+- L'étude d'Edward Allen Fay, **financée par le Volta Bureau, l'organisation de Bell lui-même**,
+  a analysé 4 471 mariages de sourds et conclu que la probabilité d'avoir des enfants sourds
+  n'augmentait pas significativement quand les deux parents étaient sourds. L'organisation du
+  promoteur de la thèse a financé l'étude qui la réfute. C'est une anecdote qui vaut un
+  paragraphe.
+
+### Intersexuation : là où naît la distinction sexe / genre
+
+Rubin, D. A. (2012). « "An Unnamed Blank That Craved a Name": A Genealogy of Intersex as
+Gender ». *Signs*, 37(4), 883–908.
+
+C'est la trouvaille la plus importante de la seconde passe, et elle change le §5 du plan de
+l'article. Rubin situe dans les recherches de John Money, au milieu du XX<sup>e</sup> siècle, le
+point de rupture généalogique où **le genre acquiert un sens distinct du sexe** — la distinction
+même qui fonde la théorie féministe. Il critique le masculinisme hétéronormatif de l'approche de
+Money et suit son héritage, resté peu interrogé, dans la recherche féministe de la deuxième vague
+à aujourd'hui.
+
+Autrement dit : la catégorie centrale de l'encyclopédie qui commande cet article s'est formée
+dans des cliniques où l'on opérait des enfants aux caractères sexuels atypiques. Pour un article
+intitulé « A Gendered History of Disability and Sexuality », c'est un argument de première
+grandeur — il montre que le genre n'est pas un outil appliqué de l'extérieur à l'histoire du
+handicap, mais une catégorie née de la gestion médicale des corps non conformes.
+
+Autour : Kessler, S. J. (1990). « The Medical Construction of Gender: Case Management of
+Intersexed Infants », *Signs* — parmi les vingt articles les plus cités de la revue sur deux
+décennies — puis *Lessons of the Intersexed* (1998). Les trois postulats du protocole de Money
+sont documentés : identité de genre plastique en bas âge seulement, chirurgie rapide pour aligner
+l'apparence génitale sur le sexe assigné, secret comme meilleure réponse au stigmate. La remise
+en cause vient des patients eux-mêmes dans les années 1990, et aboutit à la déclaration de
+consensus de Chicago (Lee *et al.*, *Pediatrics*, 2006).
+
+---
+
+## 4. Consensus établis
 
 **La double économie désexualisation / hypersexualisation est admise.** Le partage entre le corps
 infirme réputé asexué et le corps déficient réputé sexuellement dangereux structure la
@@ -152,9 +268,9 @@ poste d'observation. Leng (2019) historicise explicitement ce déplacement.
 
 ---
 
-## 4. Débats vifs
+## 5. Débats vifs
 
-### 4.1 Le modèle social contre le corps
+### 5.1 Le modèle social contre le corps
 
 Reproche féministe classique adressé au modèle social britannique : en déplaçant le handicap de
 l'individu vers l'environnement, il évacue le corps, donc la douleur et le désir. Morris est la
@@ -165,14 +281,14 @@ personal: Reflecting on disability bioethics » (2019) montrent un auteur qui n�
 publiquement avec sa propre tradition. Utile pour l'article : le débat n'oppose pas des camps,
 il traverse des trajectoires individuelles.
 
-### 4.2 Crip contre queer
+### 5.2 Crip contre queer
 
 Johnson, « Bad Romance: A Crip Feminist Critique of Queer Failure » (2014), est le texte de la
 dispute. La théorie queer de l'échec valorise l'improductivité et la négativité ; une critique
 *crip* féministe objecte que l'échec n'est pas une position choisie quand il est imposé. Débat
 non tranché, et directement pertinent pour la section théorique de l'article.
 
-### 4.3 Dépistage prénatal : féminisme contre handicap
+### 5.3 Dépistage prénatal : féminisme contre handicap
 
 Le désaccord le plus dur du corpus, et le seul où les positions sont franchement incompatibles.
 Le dossier fondateur reste la critique des droits du handicap adressée au test génétique prénatal
@@ -185,7 +301,7 @@ que l'autonomie reproductive dissipe les inquiétudes eugénistes, et Gyngell et
 défendent une sélection libérale. Le corpus contient donc les deux camps, ce qui permet de
 traiter le débat sans le caricaturer.
 
-### 4.4 Assistance sexuelle et travail du sexe
+### 5.4 Assistance sexuelle et travail du sexe
 
 Geiss et Egner (2021), « Examining Organizational Narratives: Public Appeals of Morality,
 Emotions, and Medical Logic in the Case of Sex Work for Disabled Clients », analyse comment les
@@ -200,7 +316,7 @@ and the Ethics of Engagement* (Duke, 2015), qui oppose la permissivité danoise 
 suédoise. Il n'apparaît dans le corpus que par un compte rendu (Oxlund, 2016), mais c'est la
 référence qui comble le manque danois signalé dans le plan de l'article.
 
-### 4.5 Le devotéisme
+### 5.5 Le devotéisme
 
 García-Santesmases, Sanmiquel-Molinero et Ruiz Terol (2025), « Desiring Disability?
 Problematizing Devoteeism and the Undesirability of Disabled Bodies Through the Lens of
@@ -210,7 +326,7 @@ disponible ? La reprise en 2025 confirme que le débat n'est pas clos.
 
 ---
 
-## 5. Lacunes
+## 6. Lacunes
 
 Six manques, dont quatre sont documentables à même la distribution du corpus.
 
@@ -219,11 +335,17 @@ Six manques, dont quatre sont documentables à même la distribution du corpus.
    Feminist Reflections on the History of Mental Retardation » (2001), reste l'un des rares
    textes à poser le problème comme historique et féministe.
 
-2. **Le vieillissement est absent.** Sur 139 articles, un seul croise âge, genre et corporéité
+2. **Le vieillissement existe comme problème de service, pas comme histoire.** Formulation
+   révisée après la passe 2. Sur les 139 notices, un seul article croise âge, genre et corporéité
    non conforme : Hinchy (2024), « Histories of aging and gender variability: Old age in the
-   nineteenth-century "Hijra"/"Eunuch" archive ». Aucun sur la sexualité des personnes
-   handicapées âgées. C'est un angle mort complet, et il recoupe une des enquêtes en cours de
-   l'auteur.
+   nineteenth-century "Hijra"/"Eunuch" archive ». Hors corpus Wiley, il existe bien une
+   littérature — Kåhlin, Kjellberg et Nord (2013) sur le vécu du vieillissement des personnes
+   déficientes intellectuelles en Suède, Bowen *et al.* (2025) sur l'accès aux services de santé
+   sexuelle des adultes handicapés de plus de 45 ans en Angleterre, Minhat *et al.* (2019) sur
+   l'intimité des couples âgés en Malaisie, où le handicap ressort comme prédicteur d'intimité
+   sexuelle dégradée. Mais rien d'historique. Le manque n'est pas l'absence de travaux, c'est
+   l'absence d'une **histoire** de la sexualité des personnes handicapées âgées. Recoupe une des
+   enquêtes en cours de l'auteur.
 
 3. **Le Sud global est représenté par des cas isolés, sans synthèse.** Vaidya (2023) sur l'Inde,
    Chouinard (2013) sur le Guyana, Wånggren *et al.* (2022) sur le Malawi, Arrington et Moon
@@ -231,16 +353,22 @@ Six manques, dont quatre sont documentables à même la distribution du corpus.
    esclavagiste, Kemp (2024) sur le corps colonisé. Six terrains, aucun cadre commun. L'article
    ORE ne peut pas combler ce manque, mais il peut le nommer.
 
-4. **L'historiographie du sida ignore le handicap.** Recherche faite sur les 139 notices :
-   zéro occurrence de *HIV*, *AIDS* ou *sida*. Absence à confirmer hors corpus Wiley avant d'en
-   faire une affirmation publiée, mais le silence est net.
+4. **Le sida et le handicap se rencontrent en santé publique, jamais en histoire.** C'est la
+   lacune la plus nette, et la passe 2 l'a rendue plus précise au lieu de l'annuler. Zéro
+   occurrence de *HIV*, *AIDS* ou *sida* dans les 139 notices de la passe 1. Hors corpus Wiley,
+   une littérature existe bel et bien, mais elle est entièrement épidémiologique et concentrée
+   sur l'Afrique : Groce (2005), Rohleder, Braathen et Swartz (2009) sur l'Afrique australe,
+   Hanass-Hancock (2009), revue systématique africaine. La seule exception repérée est une thèse,
+   Normandeau, *Touching Theory: AIDS Activism and Disability Justice*, sur les relations
+   sociales du toucher dans le militantisme sida des années 1980 et 1990. Le handicap est donc
+   présent dans l'épidémiologie du sida et absent de son historiographie. Formulé ainsi, le
+   constat est publiable.
 
-5. **Surdité et intersexuation sont quasi absentes.** Un seul article sur la surdité — Cleall
-   (2013), « "Deaf to the Word": Gender, Deafness and Protestantism in Nineteenth-Century Britain
-   and Ireland » — et aucun sur l'intersexuation. Or ce sont deux terrains centraux pour une
-   histoire genrée : les campagnes eugénistes contre les mariages entre sourds d'un côté, la
-   chirurgie d'assignation de l'autre. Ce manque tient sans doute au corpus interrogé plutôt
-   qu'au champ, et il faut le vérifier avant de l'écrire.
+5. **Surdité et intersexuation : lacune levée, voir le §3 bis.** La passe 1 concluait à une
+   quasi-absence. C'était un artefact du catalogue Wiley. Les deux terrains ont une littérature
+   solide, dont un article de *Signs* qui déplace l'argument central de la section théorique de
+   l'article. Ce point sert d'avertissement méthodologique : une lacune constatée sur un seul
+   corpus d'éditeur n'est pas une lacune du champ.
 
 6. **Les deux historiographies s'ignorent.** L'histoire de la sexualité et l'histoire du handicap
    se citent peu. Leng (2019) et Moore (2020, « Foucault's Scholarly Virtues and Sexuality
@@ -248,7 +376,7 @@ Six manques, dont quatre sont documentables à même la distribution du corpus.
 
 ---
 
-## 6. Ce que l'article peut apporter
+## 7. Ce que l'article peut apporter
 
 Trois choses que le corpus ne fait pas et qu'un article de synthèse peut faire.
 
@@ -261,13 +389,13 @@ traitent soit du genre, soit du handicap, soit de la sexualité, en prenant le t
 comme contexte. L'argument désexualisation / hypersexualisation distribué par le genre, la race
 et la classe est disponible dans la littérature mais rarement formulé comme thèse directrice.
 
-**Nommer les manques.** Les lacunes du §5 sont établies, pas supposées. Un article
+**Nommer les manques.** Les lacunes du §6 sont établies, pas supposées. Un article
 d'encyclopédie qui les documente rend un service durable, et c'est exactement la fonction de la
 rubrique *Discussion of the Literature*.
 
 ---
 
-## 7. Littérature francophone
+## 8. Littérature francophone
 
 Cherchée par le web, hors corpus Scholar Gateway. Trois références de premier plan.
 
@@ -297,16 +425,23 @@ de femmes handicapées en matière de sexualité »), et le fonds de la MSSH.
 
 ---
 
-## 8. Trois données chiffrées à réutiliser
+## 9. Données chiffrées à réutiliser
 
 Vérifiées lors de cette passe. Toutes demandent confirmation sur source primaire avant
 publication.
 
 | Donnée | Valeur | Usage dans l'article |
 |---|---|---|
-| Stérilisations sans consentement, Japon, 1949–1994 | 11 356 femmes contre 5 164 hommes | La seule ventilation par sexe publique et nette |
+| Stérilisations sans consentement, Japon, 1949–1994 | 11 356 femmes contre 5 164 hommes, soit 69 % | Ventilation par sexe publique et nette |
+| États-Unis, 1927–1957, personnes classées *feebleminded* ou *insane* (Stubblefield 2007) | ~60 000 stérilisations, 60 % de femmes, grande majorité blanche et pauvre | Articule genre, classe et blancheur dans un seul chiffre |
 | Stérilisations de personnes handicapées, France, 1996 (rapport IGAS 1998) | 211 femmes contre 15 hommes | Le rapport de 14 pour 1, dans une démocratie contemporaine |
 | Suède, 1935–1975 | 62 888 stérilisations, environ la moitié sous contrainte | L'ampleur d'un programme social-démocrate |
+
+Les quatre séries disent la même chose sur trois continents et sur un siècle : partout où l'État
+a stérilisé au nom du handicap, il a stérilisé des femmes en premier. Le chiffre américain ajoute
+la dimension que les trois autres ne portent pas — la majorité des personnes stérilisées étaient
+blanches et pauvres, ce qui interdit de lire l'eugénisme comme une affaire uniquement raciale et
+oblige à penser ensemble genre, classe et blancheur défaillante.
 
 Le chiffre IGAS est le plus utile des trois. La mission d'enquête, menée d'octobre 1997 à avril
 1998 par Marie-Laure Lagardère, Hélène Strohl et Bernard Even, et rendue publique le 30 septembre
@@ -316,7 +451,7 @@ XIX<sup>e</sup> siècle est toujours mesurable à la fin du XX<sup>e</sup>.
 
 ---
 
-## 9. Corpus brut
+## 10. Corpus brut
 
 La liste complète des 139 notices est dans
 `ore-revue-litterature-handicap-sexualite.corpus.md`.

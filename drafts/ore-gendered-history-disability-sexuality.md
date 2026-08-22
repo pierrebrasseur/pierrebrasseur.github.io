@@ -162,9 +162,18 @@ Cœur de l'article. Section la plus longue.
 - La construction de la « feeble-minded girl » comme problème public : Rembis, Kline. Le lien
   systématique établi entre déficience intellectuelle féminine, prostitution et délinquance
   sexuelle. Les *training schools* comme dispositif de mise à l'écart reproductive.
-- L'eugénisme sourd : Bell, *Memoir upon the Formation of a Deaf Variety of the Human Race*
-  (1883) ; les campagnes contre les mariages entre sourds ; l'oralisme comme politique
-  reproductive autant que pédagogique.
+- L'eugénisme sourd : Bell, *Memoir upon the Formation of a Deaf Variety of the Human Race*,
+  adresse de 1883 devant la National Academy of Sciences ; les campagnes contre les mariages
+  entre sourds ; l'oralisme comme politique reproductive autant que pédagogique.
+
+  **Correction par rapport à la première version de ce plan.** Ne pas faire de Bell l'eugéniste
+  de service. Greenwald et Van Cleve (2014) soutiennent que la mémoire historique de Bell est
+  déformée, et qu'il a cherché à faire échec aux eugénistes qui voulaient s'en prendre aux droits
+  reproductifs des sourds. Le récit simple est précisément ce que cet article reproche à la
+  discipline. Deux faits à garder : l'étude d'Edward Allen Fay, financée par le Volta Bureau de
+  Bell lui-même, a analysé 4 471 mariages de sourds et conclu que la probabilité d'enfants sourds
+  n'augmentait pas significativement quand les deux parents étaient sourds. L'organisation du
+  promoteur de la thèse a financé l'étude qui la réfute.
 - Les lois matrimoniales : interdictions de mariage pour épileptiques, « idiots », aliénés, dans
   une majorité d'États américains et dans plusieurs pays européens.
 - La stérilisation : Indiana 1907, *Buck v. Bell* 1927, l'Allemagne nazie (loi de juillet 1933,
@@ -208,7 +217,19 @@ une sexualité au lieu de l'empêcher.
   C'est la démonstration la plus nette de la thèse de l'article, à ne pas laisser passer.
 - La chirurgie de « normalisation » des enfants intersexes à partir des années 1950 : le sexe
   assigné chirurgicalement au nom de la vie sexuelle adulte future. Prolongement direct de la
-  logique de réparation.
+  logique de réparation. Les trois postulats du protocole de John Money sont documentés :
+  identité de genre plastique en bas âge seulement, chirurgie rapide pour aligner l'apparence
+  génitale sur le sexe assigné, secret comme meilleure réponse au stigmate. La contestation vient
+  des patients eux-mêmes dans les années 1990 et aboutit à la déclaration de consensus de Chicago
+  (2006).
+
+  **Point à monter en argument central, pas en illustration.** Rubin (2012), dans *Signs*, situe
+  chez Money le point de rupture généalogique où le genre acquiert un sens distinct du sexe — la
+  distinction même qui fonde la théorie féministe. La catégorie qui commande l'encyclopédie où
+  paraîtra cet article s'est formée dans des cliniques où l'on opérait des enfants aux caractères
+  sexuels atypiques. Cela permet de retourner l'objection attendue : le genre n'est pas un outil
+  plaqué de l'extérieur sur l'histoire du handicap, il est né de la gestion médicale des corps non
+  conformes. À placer soit ici, soit en introduction.
 
 ### 6. « The Right to a Sex Life, 1960–1990 » (~1 500 mots)
 
