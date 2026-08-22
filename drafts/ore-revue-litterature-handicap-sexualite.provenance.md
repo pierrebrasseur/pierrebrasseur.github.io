@@ -3,7 +3,7 @@
 - **Date :** 22 août 2026
 - **Commanditaire :** article ORE « A Gendered History of Disability and Sexuality »
 - **Sources consultées :** passe 1, 139 articles uniques (Scholar Gateway, 12 requêtes
-  sémantiques, 8 axes) ; passe 2, 8 requêtes Scite (corpus multi-éditeurs) pour lire les textes
+  sémantiques, 8 axes) ; passe 2, 8 requêtes Scite (corpus multi-éditeurs) ; passe 3, une dernière requête Scite et deux requêtes Scholar Gateway sur les axes empire et violences, plus trois requêtes web francophones pour lire les textes
   reconstruits à partir de titres, combler les lacunes et régler les attributions ; plus une
   dizaine de requêtes web pour la littérature francophone et les sources officielles.
 - **Sources retenues :** 139 notices conservées dans le corpus brut
@@ -46,6 +46,23 @@
   histoire) et vieillissement (présent en recherche de services, absent en histoire).
 - Une quatrième série de chiffres de stérilisation, avec ventilation par sexe et par classe.
 
+## Ce que la passe 3 a réglé
+
+- **Lacune n° 1 réfutée.** Walmsley et Jarrett (dir.), *Intellectual Disability in the Twentieth
+  Century* (Policy Press, 2019, accès ouvert) est l'histoire transnationale dont je niais
+  l'existence. La formulation retenue est désormais plus étroite : cette historiographie traite
+  les politiques et les institutions, pas la sexualité comme objet.
+- **Lacune n° 3 réfutée.** Cleall, *Colonising Disability* (Cambridge, 2022) est la synthèse
+  empire que je disais manquante. Son autrice figurait déjà dans le corpus de la passe 1, par un
+  article. Un corpus d'articles fait disparaître les monographies même de ses propres auteurs.
+- **Une archive identifiée** : les commissions d'enquête publiques sur les violences en
+  institution (Nouvelle-Zélande, Australie, Irlande), répercutée dans la rubrique *Primary
+  Sources* du plan de l'article.
+- **Une pièce d'archive nommée** : le *Committee of Inquiry into Mental Defectives and Sexual
+  Offenders* néo-zélandais de 1925.
+- Dossier francophone sur la stérilisation étoffé : Giami et Lavigne (1993), *Stériliser le
+  handicap mental*, et la loi de 2001 sur la stérilisation des personnes sous tutelle.
+
 ## Ce qui reste à faire pour consolider
 
 1. Lire les textes intégraux depuis un accès institutionnel ULB, en priorité Rubin (2012),
@@ -53,5 +70,10 @@
 2. Interroger Cairn, OpenEdition, Persée et theses.fr directement.
 3. Vérifier les quatre séries de chiffres de stérilisation sur les rapports officiels.
 4. Trouver la littérature monographique, qu'aucun des deux corpus ne restitue.
-5. Épuiser le quota Scite ou ouvrir un accès : une seule recherche gratuite restait au moment
-   d'arrêter, plusieurs pistes du §3 bis méritent d'être creusées.
+5. Le quota Scite gratuit est épuisé. Un accès complet permettrait de creuser les pistes des
+   §3 bis et 3 ter.
+6. Chercher systématiquement les monographies, angle mort commun aux deux corpus d'articles :
+   les deux lacunes réfutées en passe 3 l'ont été par des livres.
+7. Vérifier sur source primaire la loi française de 2001, la condition de stérilisation à
+   l'admission en établissement signalée pour la France, la Belgique et la Hongrie, et l'alerte
+   ONU de mars 2025.

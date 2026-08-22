@@ -353,6 +353,16 @@ Décrire les fonds et leurs biais plutôt que d'énumérer :
 - Registres d'internement, dossiers médicaux, rapports d'inspection. Ce sont des archives de la
   contrainte : elles enregistrent la sexualité au moment où elle est réprimée, jamais autrement.
 - Dossiers judiciaires de stérilisation et de tutelle.
+- **Les commissions d'enquête publiques sur les violences en institution.** Archive neuve et
+  massive, encore peu exploitée par les historiens : la *Royal Commission of Inquiry into Abuse
+  in Care* néo-zélandaise, les *Royal Commissions* australiennes, les commissions irlandaises.
+  Elles collectent, versent et publient des témoignages sur exactement l'objet de cet article.
+  Signaler aussi leur limite : ce sont des archives produites par un dispositif de réparation,
+  qui met en forme les récits qu'il recueille.
+- Les enquêtes et rapports parlementaires anciens, qui disent parfois tout dans leur seul
+  intitulé. Le *Committee of Inquiry into Mental Defectives and Sexual Offenders* néo-zélandais
+  de 1925 traite dans un même document les déficients mentaux et les délinquants sexuels : c'est
+  le régime d'hypersexualisation à l'état de titre administratif.
 - Presse et publications des mouvements : bulletins d'associations, fanzines militants, revues
   d'usagers.
 - Récits à la première personne : autobiographies, témoignages d'enquête, archives orales

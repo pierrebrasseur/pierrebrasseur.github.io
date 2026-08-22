@@ -241,6 +241,52 @@ consensus de Chicago (Lee *et al.*, *Pediatrics*, 2006).
 
 ---
 
+## 3 ter. Les commissions d'enquête publiques, archive neuve
+
+Trouvaille de la troisième passe, et elle vaut autant pour la rubrique *Primary Sources* de
+l'article que pour l'historiographie.
+
+Trois pays ont ouvert depuis quinze ans des enquêtes publiques sur les violences en institution,
+et ces enquêtes produisent, versent et publient des archives que les historiens commencent tout
+juste à exploiter : la *Royal Commission of Inquiry into Abuse in Care* en Aotearoa
+Nouvelle-Zélande, les *Royal Commissions* australiennes (Swain et Wright, 2026), et les
+commissions irlandaises sur les abus en institution (McAlinden, 2012, sur les obstacles à la
+manifestation de la vérité). C'est un genre de source, récent, massif, et centré sur exactement
+ce que l'article traite.
+
+**Le cas néo-zélandais est le plus directement utile.** Stace, H. (2022). « Aotearoa New
+Zealand's Royal Commission on Abuse in Care and Making our Disability History Visible ».
+*Public History Review*, 29, 156–167. En accès ouvert. Ce qu'on y trouve :
+
+- Un **Committee of Inquiry into Mental Defectives and Sexual Offenders** en **1925**. Le titre
+  seul fait la démonstration : une commission d'État qui traite dans le même document les
+  déficients mentaux et les délinquants sexuels. Stace note qu'elle a renforcé dans l'opinion le
+  lien entre déficience intellectuelle, dégénérescence morale et délinquance sexuelle. Si
+  l'article a besoin d'une pièce unique pour établir le régime d'hypersexualisation, c'est
+  celle-là.
+- Theodore Gray, chef du Department of Mental Hospitals, voulait le recensement, la stérilisation
+  et l'envoi en colonies agricoles ségréguées des enfants et adultes déficients ou malades
+  mentaux. Templeton Farm Mental Deficiency Colony ouvre en 1929 ; Gray autorise personnellement
+  les premières admissions.
+- **La stérilisation eugénique n'a jamais été légalisée en Nouvelle-Zélande, et les opérations et
+  contraceptions sans consentement y auraient néanmoins été courantes.** C'est l'argument du §4
+  du plan de l'article — l'essentiel du tri s'est fait sans loi — établi sur un cas documenté.
+- Le rapport Aitken de 1953 recommande d'étendre les institutions en grandes « colonies pour
+  déficients mentaux », les parents étant encouragés ou contraints d'y placer leur enfant
+  handicapé avant cinq ans.
+- L'unité pour adolescents de Lake Alice et le psychiatre Selwyn Leeks, objet d'une audience
+  publique de la commission en 2021.
+
+**Littérature d'accompagnement sur les violences sexuelles**, absente de mes deux premières
+passes : McGilloway, Smith et Galvin (2018) sur les obstacles rencontrés par les adultes
+déficients intellectuels victimes d'agression sexuelle, revue systématique et méta-synthèse ;
+Wołowicz et Jurczyk (2025) sur les obstacles à la révélation chez les femmes déficientes
+intellectuelles ; Cambridge *et al.* (2011) sur les signalements de protection des adultes ;
+O'Callaghan et Murphy (2007) sur le droit des relations sexuelles des adultes déficients
+intellectuels, qui prend de front la question du consentement que je signalais comme angle mort.
+
+---
+
 ## 4. Consensus établis
 
 **La double économie désexualisation / hypersexualisation est admise.** Le partage entre le corps
@@ -330,10 +376,28 @@ disponible ? La reprise en 2025 confirme que le débat n'est pas clos.
 
 Six manques, dont quatre sont documentables à même la distribution du corpus.
 
-1. **La déficience intellectuelle n'a pas d'histoire de la sexualité.** Établi au §2.3.
-   Dix-huit articles, aucun historique. Carlson, « Cognitive Ableism and Disability Studies:
-   Feminist Reflections on the History of Mental Retardation » (2001), reste l'un des rares
-   textes à poser le problème comme historique et féministe.
+1. **~~La déficience intellectuelle n'a pas d'histoire de la sexualité.~~ Réfutée en passe 3, et
+   la formulation qui subsiste est plus faible.** La cartographie de la passe 1 donnait
+   dix-huit articles, tous contemporains et orientés services, d'où j'avais conclu à l'absence
+   d'historiographie. C'était faux, et le corpus Wiley en était encore la cause. Il existe une
+   histoire transnationale constituée :
+
+   Walmsley, J. et Jarrett, S. (dir.) (2019). *Intellectual Disability in the Twentieth Century:
+   Transnational Perspectives on People, Policy, and Practice*. Bristol : Policy Press.
+   doi:10.51952/9781447344582 — **en accès ouvert**. Chapitres nationaux dont le Ghana (Abraham
+   et Odoom), l'Australie (Monk, sur les Kew Cottages, 1887–2008) et le Royaume-Uni (Jarrett et
+   Walmsley).
+
+   Ce que je maintiens, sous une forme plus étroite et plus défendable : cette historiographie
+   est une histoire des **politiques et des institutions**, où la sexualité apparaît comme
+   conséquence de la ségrégation plutôt que comme objet propre. La monographie de Monk sur les
+   Kew Cottages en est l'exemple — la trajectoire des résidents y est centrale, leur vie sexuelle
+   non. L'article ORE peut donc revendiquer non pas de combler un vide, mais de retourner la
+   focale d'une littérature qui existe.
+
+   Carlson, « Cognitive Ableism and Disability Studies: Feminist Reflections on the History of
+   Mental Retardation » (2001), reste l'un des rares textes à poser le problème comme à la fois
+   historique et féministe.
 
 2. **Le vieillissement existe comme problème de service, pas comme histoire.** Formulation
    révisée après la passe 2. Sur les 139 notices, un seul article croise âge, genre et corporéité
@@ -347,11 +411,27 @@ Six manques, dont quatre sont documentables à même la distribution du corpus.
    l'absence d'une **histoire** de la sexualité des personnes handicapées âgées. Recoupe une des
    enquêtes en cours de l'auteur.
 
-3. **Le Sud global est représenté par des cas isolés, sans synthèse.** Vaidya (2023) sur l'Inde,
-   Chouinard (2013) sur le Guyana, Wånggren *et al.* (2022) sur le Malawi, Arrington et Moon
-   (2019) sur la Corée du Sud et le Japon, Hunt-Kennedy (2023) sur la Caraïbe britannique
-   esclavagiste, Kemp (2024) sur le corps colonisé. Six terrains, aucun cadre commun. L'article
-   ORE ne peut pas combler ce manque, mais il peut le nommer.
+3. **~~Le Sud global est représenté par des cas isolés, sans synthèse.~~ Réfutée : la synthèse
+   existe.** Les cas isolés sont bien là — Vaidya (2023) sur l'Inde, Chouinard (2013) sur le
+   Guyana, Wånggren *et al.* (2022) sur le Malawi, Arrington et Moon (2019) sur la Corée du Sud
+   et le Japon, Hunt-Kennedy (2023) sur la Caraïbe britannique esclavagiste, Kemp (2024) sur le
+   corps colonisé. Mais le cadre commun que je disais absent a été publié :
+
+   Cleall, E. (2022). *Colonising Disability: Impairment and Otherness Across Britain and Its
+   Empire, c. 1800–1914*. Cambridge University Press, coll. « Critical Perspectives on Empire ».
+
+   Cleall soutient que le handicap devient synonyme de « différence » en s'articulant à d'autres
+   catégories d'altérité, au premier rang desquelles la race, et le montre sur des sources
+   philanthropiques, juridiques, littéraires, religieuses, médicales, éducatives, eugénistes et
+   parlementaires. Elle suit les personnes handicapées des *freak shows* britanniques aux missions
+   en Inde et aux systèmes d'immigration australiens, y compris dans leurs mobilisations. Le
+   chapitre 5 s'intitule « A Deaf Imaginary ». L'introduction est déposée en accès ouvert sur
+   White Rose.
+
+   C'est la même Esme Cleall que celle de l'article de 2013 sur surdité, genre et protestantisme
+   déjà repéré en passe 1. J'avais son article sans voir qu'elle avait écrit le livre. Leçon de
+   méthode : un corpus d'articles fait disparaître les monographies même quand leur auteur y
+   figure.
 
 4. **Le sida et le handicap se rencontrent en santé publique, jamais en histoire.** C'est la
    lacune la plus nette, et la passe 2 l'a rendue plus précise au lieu de l'annuler. Zéro
@@ -419,9 +499,29 @@ société*, 19.**
 Le numéro de référence en français, et une auto-citation légitime : c'est l'état de la recherche
 francophone sur le sujet exact de l'article.
 
-À explorer encore : *Alter — European Journal of Disability Research*, la *Revue française des
-affaires sociales* 2021/1 (« Les effets de l'interaction du genre et du handicap : l'expérience
-de femmes handicapées en matière de sexualité »), et le fonds de la MSSH.
+**Sur la stérilisation en France, un dossier constitué que la passe 1 avait manqué.** Giami et
+Lavigne ont travaillé dès 1993 sur la stérilisation des femmes déficientes intellectuelles et le
+« consentement libre et éclairé » (*Revue de médecine psychosomatique*), et le sujet a son
+ouvrage collectif, *Stériliser le handicap mental* (Érès), dont un chapitre reprend cette
+question. Voir aussi le chapitre 3 de *L'eugénisme, la science et le droit* (PUF) et, dans
+*La condition handicapée* (PUG), le chapitre « Au XX<sup>e</sup> siècle, une question cruciale :
+la stérilisation des jeunes femmes handicapées mentales ». La loi française de 2001 sur la
+contraception et l'interruption de grossesse a encadré la stérilisation des personnes sous
+tutelle — date et contenu exact à vérifier avant citation.
+
+Deux éléments de contexte repérés et à confirmer sur source primaire : en France, en Belgique et
+en Hongrie, la stérilisation ou la contraception aurait été posée comme condition d'admission
+dans certains établissements spécialisés ; et l'ONU a de nouveau alerté en mars 2025 sur
+l'aggravation du risque de stérilisation forcée des femmes handicapées.
+
+*Alter — European Journal of Disability Research*, revue bilingue créée en 2007 et propriété
+d'Alter — European Society for Research on Disability, est le lieu de dépôt francophone
+spécialisé. Aucun numéro spécial genre et sexualité n'a été identifié par cette recherche ; à
+vérifier dans les archives de la revue plutôt que par le web.
+
+À explorer encore : la *Revue française des affaires sociales* 2021/1 (« Les effets de
+l'interaction du genre et du handicap : l'expérience de femmes handicapées en matière de
+sexualité ») et le fonds de la MSSH.
 
 ---
 
