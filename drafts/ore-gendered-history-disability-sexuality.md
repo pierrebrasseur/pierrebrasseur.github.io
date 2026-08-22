@@ -15,15 +15,26 @@ ci-dessous suppose cette lecture faite ; voir la section « Démarcation ».
 
 ## 1. Contraintes éditoriales à confirmer avec Emma Hamilton
 
-Les paramètres ORE varient d'une encyclopédie à l'autre. À faire préciser dans l'échange de
-commande, avant de commencer à écrire :
+Les paramètres ORE varient d'une encyclopédie à l'autre. Ce qui suit vient des instructions aux
+auteurs publiées par d'autres ORE (Literature, Education, Communication, Politics) : à
+faire confirmer pour *Gender and Women's History*, mais l'ossature est stable d'un titre à
+l'autre.
 
-- **Longueur** : les articles ORE tournent en général autour de 8 000 à 10 000 mots, hors
-  bibliographie. À confirmer.
-- **Appareil** : un *Summary* de 150 à 200 mots, 5 à 10 *keywords*, puis les rubriques maison
-  *Discussion of the Literature*, *Primary Sources*, *Links to Digital Materials*,
-  *Further Reading*, *References*. Vérifier lesquelles sont obligatoires ici.
-- **Style bibliographique** : Chicago auteur-date pour la plupart des ORE. À confirmer.
+- **Style bibliographique : notes de fin, Chicago 17<sup>e</sup> édition.** Les ORE demandent des
+  *endnotes* et interdisent explicitement les appels de citation entre parenthèses dans le
+  corps du texte. Il n'y a pas de bibliographie finale au sens habituel, donc la première
+  occurrence de chaque source doit porter la référence complète. C'est le point qui change le
+  plus la manière de rédiger : prévoir l'appareil dès le premier jet plutôt qu'après.
+- **Mots-clés** : 5 à 10.
+- **Sous-titres** : un intertitre tous les 1 000 à 1 500 mots. Le plan du §4 respecte cette
+  granularité.
+- **Summary** : les ORE proposent de soumettre un résumé long (de l'ordre de 750 mots) publié en
+  avance de l'article complet, avec ses propres notes. À demander si cette option existe ici :
+  elle permettrait de poser le sujet tôt.
+- **Longueur** : non confirmée. Les domaines `oxfordre.com` et `academic.oup.com` sont
+  inaccessibles depuis l'environnement où ce plan a été préparé, les instructions propres à
+  *Gender and Women's History* n'ont donc pas pu être lues. Question à poser à Emma Hamilton.
+  Le budget du §4 vise 9 000 mots et se redimensionne proportionnellement.
 - **Délai de remise** et calendrier de peer review.
 - **Politique de dépôt** : ORE est sous embargo ; savoir ce qui peut aller sur HAL et quand.
 - **Illustrations** : possibles, mais les droits sont à la charge de l'auteur. Décider tôt si on
@@ -83,6 +94,15 @@ Règle pratique : traiter le prémoderne en une section courte, cadrante, qui re
 À vérifier aussi, dans la liste d'Emma Hamilton : une éventuelle commande sur l'eugénisme, sur la
 stérilisation forcée, ou sur les violences sexuelles institutionnelles. Ce sont les trois points
 de recouvrement les plus probables.
+
+**Recouvrement hors périmètre, à signaler quand même.** OUP publie une *Oxford Research
+Encyclopedia of Disability Studies* distincte, qui contient déjà « Philosophy of Disability and
+Sexualities » et « Trans Philosophy of Disability ». Ce n'est pas la même encyclopédie et la
+vérification d'Emma Hamilton ne portera probablement que sur *Gender and Women's History*, mais
+un lecteur qui cherche « disability + sexuality » chez Oxford tombera sur les deux. Deux
+conséquences : mentionner ces articles à l'éditrice pour qu'elle tranche, et marquer la
+différence dans le texte — celui-ci est une histoire, celui de *Disability Studies* est une
+analyse philosophique et contemporaine.
 
 ## 4. Plan détaillé
 
@@ -148,9 +168,25 @@ Cœur de l'article. Section la plus longue.
 - Les lois matrimoniales : interdictions de mariage pour épileptiques, « idiots », aliénés, dans
   une majorité d'États américains et dans plusieurs pays européens.
 - La stérilisation : Indiana 1907, *Buck v. Bell* 1927, l'Allemagne nazie (loi de juillet 1933,
-  puis Aktion T4 à partir de 1939), la Suède (1934 et 1941, jusqu'en 1976), le Japon (loi
-  eugénique de 1948, abrogée en 1996). Insister sur ce que les chiffres montrent : les femmes
-  sont surreprésentées partout, l'écart se creuse après 1930.
+  puis Aktion T4 à partir de 1939), la Suède, le Japon, l'Alberta. Les chiffres officiels
+  disponibles disent la même chose partout, et c'est l'argument de la section :
+
+  | Pays | Période | Volume | Répartition par sexe |
+  |---|---|---|---|
+  | Suède | 1935–1975 | 62 888 stérilisations, dont environ la moitié sous contrainte | Très majoritairement des femmes |
+  | Japon | 1949–1994 (art. 4 et 12, sans consentement) | 16 520 | 11 356 femmes, 5 164 hommes, soit 69 % de femmes |
+  | Alberta | 1928–1972 | ~4 800 dossiers approuvés, 2 832 stérilisations pratiquées | Femmes surreprésentées, avec les personnes autochtones, les immigrés d'Europe de l'Est et les catholiques |
+
+  Chiffres suédois issus de la commission d'enquête gouvernementale ouverte après les
+  révélations de Maciej Zaremba en 1997 ; chiffres japonais des statistiques rassemblées lors des
+  contentieux ayant conduit à l'excuse publique du gouvernement ; chiffres albertains du
+  contentieux *Muir v. Alberta* (1996) et des indemnisations qui ont suivi. Vérifier chacun
+  contre le rapport officiel lui-même avant publication : ces valeurs viennent de sources
+  secondaires.
+
+  Le Japon est le cas le plus utile pour l'argument genré, parce que c'est le seul où la
+  ventilation par sexe est publique et nette. L'Alberta est le plus utile pour l'articulation
+  genre / race / religion / migration.
 - La ligne raciale : la stérilisation des femmes noires dans le Sud américain, des Portoricaines
   (*La Operación*), des femmes autochtones aux États-Unis et au Canada. Les affaires Relf (1973)
   et *Madrigal v. Quilligan* (1978) sont postérieures mais tirent leur logique de cette période :
@@ -181,8 +217,8 @@ une sexualité au lieu de l'empêcher.
   sexe mais le rendait invisible et impuni.
 - Le *Independent Living Movement* (Berkeley, 1972) et l'aide humaine : dès qu'un tiers entre
   dans la salle de bains, la question de l'intimité devient une question politique.
-- La sexologie s'empare du handicap : les partenaires-surrogats de Masters et Johnson, la
-  fondation de la revue *Sexuality and Disability* (1978), les programmes néerlandais et
+- La sexologie s'empare du handicap : les partenaires-surrogats de Masters et Johnson, le premier
+  numéro de la revue *Sexuality and Disability* en mars 1978, les programmes néerlandais et
   scandinaves de conseil sexuel. Naissance de l'expertise valide sur le désir handicapé.
 - La critique féministe interne : Anne Finger, « Forbidden Fruit » (1992) et sa formule sur la
   sexualité comme source de la souffrance la plus profonde ; Fine et Asch, *Women with
@@ -229,10 +265,30 @@ une histoire américano-européenne, et l'ORE est lue internationalement.
 
 ### 9. « Contemporary Regimes: Assistance, Screening, Violence, Platforms » (~1 200 mots)
 
-- L'assistance sexuelle : Pays-Bas, Suisse, Allemagne, Danemark ; le débat français et l'avis
-  n° 118 du CCNE (2012) ; la ligne de fracture avec les féminismes abolitionnistes. Terrain sur
-  lequel j'ai une contribution propre — la mobiliser sans transformer l'article en exposé de mes
-  travaux.
+- L'assistance sexuelle. Terrain sur lequel j'ai une contribution propre, à mobiliser sans
+  transformer l'article en exposé de mes travaux. Trois jalons datés :
+  - **Pays-Bas, 1982** : fondation de la SAR (*Stichting Alternatieve Relatiebemiddeling*) au
+    *Het Dorp* d'Arnhem, à l'initiative de résidents handicapés physiques eux-mêmes. Structure
+    d'intermédiation sans but lucratif, toujours active, qui travaille aussi sur une partie de
+    l'Allemagne et de la Belgique. Point important pour l'argument : l'initiative vient des
+    personnes concernées, pas de l'institution.
+  - **Suisse, 2003** : la section zurichoise de Pro Infirmis recrute douze personnes pour une
+    formation d'accompagnants sexuels, assurée de janvier à juin par la Néerlandaise Nina de
+    Vries. En septembre, Pro Infirmis abandonne le projet après une révolte des donateurs et une
+    chute des dons ; la formation est reprise par la FABS à Bâle, qui mène deux cycles achevés en
+    2004 et 2007.
+  - **France, 2012** : avis n° 118 du CCNE, « Vie affective et sexuelle des personnes
+    handicapées. Question de l'assistance sexuelle », adopté le 4 octobre 2012 et rendu public en
+    mars 2013, sur saisine de Roselyne Bachelot-Narquin en 2011. Le comité refuse d'en faire une
+    activité professionnelle, au nom du principe de non-patrimonialité du corps humain.
+
+  L'épisode Pro Infirmis est le meilleur candidat pour ouvrir cette section. Une association
+  financée par la générosité publique se retrouve obligée d'abandonner un dispositif sexuel parce
+  que ses donateurs se détournent : l'économie de la pitié qui finance le secteur du handicap
+  contraint directement ce qu'il peut faire de la sexualité. C'est la thèse de l'article, jouée
+  en 2003 et documentée.
+- La ligne de fracture avec les féminismes abolitionnistes, et le fait que le débat oppose des
+  positions féministes entre elles plutôt que féministes contre militants du handicap.
 - Dépistage prénatal et diagnostic préimplantatoire : la reproduction sélective comme forme
   contemporaine du gouvernement eugéniste, et la difficulté du débat pour les féministes
   attachées au droit à l'avortement.
@@ -349,23 +405,50 @@ Piepzna-Samarasinha, *Care Work* (2018) · Mingus sur l'*access intimacy* (2011)
 n° 118 (2012) · CDPH (2006), art. 23 et 25 · littérature sur le traitement Ashley · mes travaux
 sur l'assistance sexuelle et les plateformes.
 
-## 7. À vérifier avant rédaction
+## 7. État des vérifications
 
-- Date exacte et intitulé de l'avis CCNE (n° 118, 2012, à confirmer).
-- Année de fondation de la revue *Sexuality and Disability* (1978, à confirmer).
-- Historique des dispositifs néerlandais, suisses et allemands d'accompagnement sexuel : dates de
-  création, statut juridique, nombre de personnes concernées. Sources secondaires fiables à
-  trouver, la littérature militante est abondante et peu datée.
-- Chiffres de stérilisation par pays et par sexe : privilégier les rapports de commissions
-  officielles (Suède, Canada, Japon) aux estimations de seconde main.
-- Contenu réel de l'article de Kuuliala, pour caler la démarcation.
-- Liste des commandes en cours de l'ORE, auprès d'Emma Hamilton.
+Passe faite le 22 août 2026, par recherche en ligne. Tout ce qui suit reste à confirmer sur
+source primaire avant publication : une recherche en ligne établit une date, elle ne remplace pas
+le rapport officiel.
+
+**Vérifié**
+
+| Point | Résultat |
+|---|---|
+| Avis CCNE | N° 118, « Vie affective et sexuelle des personnes handicapées. Question de l'assistance sexuelle », adopté le 4 oct. 2012, public en mars 2013, saisine Bachelot-Narquin 2011 |
+| *Sexuality and Disability* | Premier numéro en mars 1978, Springer |
+| SAR (Pays-Bas) | Fondée en 1982 au *Het Dorp*, Arnhem, par des résidents handicapés physiques |
+| Suisse | Formation Pro Infirmis Zurich janv.–juin 2003, 12 personnes, formatrice Nina de Vries ; abandon en sept. 2003 après chute des dons ; reprise par la FABS Bâle, cycles achevés en 2004 et 2007 |
+| Nina de Vries | Formée thérapeute aux Pays-Bas, à Berlin depuis 1990, massages érotiques dès 1994, clients handicapés dès 1997, quasi exclusivement des hommes déficients intellectuels depuis 1999 |
+| Stérilisations | Suède 62 888 (1935–1975), Japon 16 520 sans consentement dont 11 356 femmes (1949–1994), Alberta 2 832 pratiquées sur ~4 800 approuvées (1928–1972) |
+| Appareil ORE | Notes de fin Chicago 17<sup>e</sup>, pas de citations entre parenthèses, 5 à 10 mots-clés, intertitre tous les 1 000 à 1 500 mots |
+
+**Non vérifiable ici**
+
+- **L'article de Kuuliala n'a pas pu être lu.** `oxfordre.com` et `academic.oup.com` sont bloqués
+  par la politique réseau de l'environnement où ce plan a été préparé. La démarcation du §3 reste
+  une hypothèse fondée sur le titre et sur ce qu'en dit l'éditrice, pas sur le texte. À reprendre
+  en priorité.
+- **Longueur attendue** : même blocage, les instructions aux auteurs de *Gender and Women's
+  History* n'ont pas pu être lues. Question à poser.
+- **Liste des commandes en cours** : seule Emma Hamilton l'a.
+
+**Encore à faire**
+
+- Rapports officiels de première main pour les trois séries de chiffres de stérilisation
+  (commission suédoise, statistiques japonaises produites dans les contentieux, dossiers de
+  l'Alberta Eugenics Board).
+- Dispositif allemand : l'ISBB et le statut juridique de l'accompagnement sexuel en Allemagne
+  restent flous dans les sources secondaires trouvées.
+- Danemark et pays nordiques : rien de solide trouvé, à instruire.
 
 ## 8. Prochaines étapes
 
 1. Répondre à l'éditrice pour accuser réception et confirmer l'intérêt.
-2. Lire Kuuliala, ajuster la §3 de ce plan.
-3. Obtenir d'Emma Hamilton : longueur, délai, feuille de style, liste anti-doublon.
+2. Lire Kuuliala, ajuster la §3 de ce plan. Bloquant pour la démarcation.
+3. Obtenir d'Emma Hamilton : longueur, délai, liste anti-doublon, et son avis sur le
+   recouvrement avec l'ORE *Disability Studies* signalé au §3.
 4. Envoyer un plan resserré d'une page pour validation avant rédaction.
-5. Constituer la bibliographie dans Zotero, vérifier les points du §7.
+5. Constituer la bibliographie dans Zotero, en style notes Chicago 17<sup>e</sup> dès le départ
+   pour ne pas avoir à tout reprendre. Traiter la liste « encore à faire » du §7.
 6. Rédiger dans l'ordre 4, 6, 5, 7, 9, 3, 8, 2, puis introduction et *Summary* en dernier.
