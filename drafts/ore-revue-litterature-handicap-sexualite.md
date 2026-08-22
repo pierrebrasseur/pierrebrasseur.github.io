@@ -376,6 +376,75 @@ pièce dont la rubrique *Discussion of the Literature* a besoin.
 
 ---
 
+## 3 quinquies. Trois vérifications soldées, dont deux qui donnent un argument
+
+Les serveurs de recherche académique n'étaient plus joignables lors de cette passe ; seule la
+recherche web l'était. Elle a servi à solder trois points laissés « à vérifier ».
+
+### France 2001 : la stérilisation n'a pas été abolie, elle a été mise en procédure
+
+Loi n° 2001-588 du 4 juillet 2001 relative à l'interruption volontaire de grossesse et à la
+contraception, article L2123-2 du code de la santé publique. Le régime :
+
+- Interdite sur mineur.
+- Pour un majeur aux facultés mentales altérées sous tutelle ou curatelle, possible seulement en
+  cas de contre-indication médicale absolue aux méthodes contraceptives ou d'impossibilité avérée
+  de les mettre en œuvre efficacement.
+- Décision du juge des tutelles, saisi par l'intéressé, ses parents ou son représentant légal.
+- Le juge entend l'intéressé ; si celui-ci est en mesure d'exprimer sa volonté, son consentement
+  doit être systématiquement recherché après une information adaptée à son degré de
+  compréhension. **Son refus ou la révocation de son consentement ne peut être outrepassé.**
+- Avis d'un comité d'experts régional : deux gynécologues-obstétriciens, un psychiatre et deux
+  représentants d'associations de personnes handicapées.
+
+**L'argument est là.** Le récit courant fait de 2001 la date à laquelle la France met fin aux
+stérilisations. Le texte dit autre chose : il installe un dispositif permanent — juge des
+tutelles, comités d'experts régionaux, critères médicaux — qui rend la pratique légale sous
+condition. Les agences régionales de santé renouvellent encore aujourd'hui la composition de ces
+comités. La garantie réelle qu'apporte la loi est ailleurs, dans une clause précise : le refus de
+la personne concernée ne peut être outrepassé. Contre la thèse du progrès linéaire, c'est un cas
+net : la loi de 2001 ne clôt pas l'histoire eugéniste, elle la transforme en procédure
+administrative durable.
+
+### Belgique : le financement décide de la survie du dispositif
+
+ADITI. Née côté flamand en **2009** (Aditi vzw). L'aile francophone démarre en **janvier 2014**,
+après qu'une coordinatrice, confrontée en 2012 à la demande d'un résident présentant une
+déficience intellectuelle légère à modérée, a pris contact avec la structure néerlandophone.
+
+- Une vingtaine d'accompagnants sexuels, **dont les trois quarts sont des femmes**.
+- Subventionnée par la Région wallonne et la Région bruxelloise, de l'ordre de 50 000 euros par
+  an. Déontologie validée par la Région wallonne. Formations, intervisions, supervisions.
+- Tarif de 100 euros l'heure, 150 pour un couple, plus frais de déplacement, payés en liquide.
+
+**Deux arguments, pas un.** Le premier : la proportion de femmes parmi les accompagnants
+quantifie la division genrée du travail intime, sur laquelle l'article a une thèse. Le second est
+plus fort. Comparez avec la Suisse : Pro Infirmis Zurich, financée par la générosité publique,
+abandonne son programme en 2003 quand les donateurs se détournent ; ADITI, financée par
+subvention régionale, fonctionne depuis 2014. Ce qui décide de la survie d'un dispositif
+d'assistance sexuelle n'est ni la loi ni l'opinion, c'est la structure de son financement. Une
+association qui dépend du don est otage de l'économie de la pitié ; une association subventionnée
+ne l'est pas.
+
+Détail supplémentaire à exploiter : au sein d'un même pays, le côté néerlandophone précède le
+côté francophone de cinq ans. Une variation infranationale qui fait écho au contraste
+Danemark / Suède, et qui protège contre toute explication par la culture nationale.
+
+### ONU, mars 2025
+
+Heba Hagrass, rapporteuse spéciale sur les droits des personnes handicapées, rapport présenté au
+Conseil des droits de l'homme en mars 2025. Elle dénonce la persistance de politiques interdisant
+aux personnes présentant un handicap mental ou une déficience intellectuelle d'avoir des enfants,
+et le risque accru, pour les femmes et les filles handicapées, de stérilisation forcée,
+d'exploitation sexuelle et de violence domestique, y compris de sévices infligés en institution
+de santé par des soignants ou d'autres résidents. Une rapporteuse spéciale avait déjà dénoncé la
+stérilisation forcée des jeunes femmes handicapées devant la Troisième Commission en 2017.
+
+Utile pour clore l'article sur une note qui ne soit pas un pronostic : le dispositif décrit pour
+le XIX<sup>e</sup> siècle fait encore l'objet d'alertes onusiennes en 2025.
+
+---
+
 ## 4. Consensus établis
 
 **La double économie désexualisation / hypersexualisation est admise.** Le partage entre le corps

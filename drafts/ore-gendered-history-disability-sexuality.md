@@ -302,8 +302,18 @@ une histoire américano-européenne, et l'ORE est lue internationalement.
     handicapées. Question de l'assistance sexuelle », adopté le 4 octobre 2012 et rendu public en
     mars 2013, sur saisine de Roselyne Bachelot-Narquin en 2011. Le comité refuse d'en faire une
     activité professionnelle, au nom du principe de non-patrimonialité du corps humain.
-  - **Belgique francophone** : l'ASBL ADITI wb coordonne l'accompagnement sexuel. À ajouter, son
-    absence se remarquerait — l'article est écrit depuis l'ULB.
+  - **Belgique, 2009 et 2014** : ADITI naît côté flamand en 2009, l'aile francophone démarre en
+    janvier 2014. Une vingtaine d'accompagnants, dont trois quarts de femmes. Subvention des
+    Régions wallonne et bruxelloise d'environ 50 000 euros par an, déontologie validée par la
+    Région wallonne, 100 euros l'heure.
+
+  **La comparaison Suisse / Belgique est l'argument à monter ici.** Pro Infirmis, financée par le
+  don, abandonne en 2003 sous la pression de ses donateurs. ADITI, financée par subvention
+  régionale, fonctionne depuis 2014. Ce qui décide de la survie d'un dispositif d'assistance
+  sexuelle n'est ni la loi ni l'état de l'opinion, c'est la structure de son financement : une
+  association qui vit du don reste otage de l'économie de la pitié, une association subventionnée
+  s'en affranchit. Et le décalage de cinq ans entre Flandre et Wallonie, à l'intérieur d'un même
+  État, interdit d'expliquer ces écarts par la culture nationale.
   - **Danemark et Suède, le contraste qui explique les autres.** Kulick et Rydström (2015) : au
     Danemark, les personnes lourdement handicapées sont accompagnées dans l'expression de leur
     sexualité ; en Suède, la tolérance zéro envers le travail sexuel les a exclues de toute
@@ -324,6 +334,23 @@ une histoire américano-européenne, et l'ORE est lue internationalement.
   attachées au droit à l'avortement.
 - Stérilisation et contraception forcées aujourd'hui : sous tutelle, en Australie (enquête
   sénatoriale de 2013), en Europe ; le « traitement Ashley » (2006–2007) comme cas limite.
+
+  **Le cas français est le meilleur contre-exemple au récit du progrès.** La loi n° 2001-588 du
+  4 juillet 2001 n'abolit pas la stérilisation des majeurs protégés : elle la met en procédure.
+  L'article L2123-2 du code de la santé publique la subordonne à une contre-indication médicale
+  absolue ou à une impossibilité avérée de contraception, à une décision du juge des tutelles et
+  à l'avis d'un comité d'experts régional composé de deux gynécologues-obstétriciens, d'un
+  psychiatre et de deux représentants d'associations. Ces comités sont toujours renouvelés par les
+  agences régionales de santé. La garantie réelle du texte tient en une clause : le refus de la
+  personne, ou la révocation de son consentement, ne peut être outrepassé. Autrement dit, la
+  pratique n'a pas pris fin, elle est devenue une procédure administrative permanente — ce qui
+  est exactement la thèse de l'article contre la lecture en termes de progrès.
+
+- Clore sur l'actualité plutôt que sur un pronostic : en mars 2025, Heba Hagrass, rapporteuse
+  spéciale de l'ONU sur les droits des personnes handicapées, dénonce devant le Conseil des droits
+  de l'homme la persistance de politiques interdisant aux personnes déficientes intellectuelles
+  d'avoir des enfants, et le risque accru de stérilisation forcée pour les femmes et les filles
+  handicapées.
 - Les violences sexuelles : surexposition documentée des femmes et des enfants handicapés, déni
   institutionnel, difficultés probatoires liées au statut de témoin. Ce que #MeToo a et n'a pas
   touché.
