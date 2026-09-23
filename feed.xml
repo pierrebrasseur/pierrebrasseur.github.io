@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Carnet — Pierre Brasseur</title>
+  <link>https://pierrebrasseur.github.io/blog.html</link>
+  <atom:link href="https://pierrebrasseur.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Notes de lecture, notes théoriques et réflexions pédagogiques.</description>
+  <language>fr</language>
+  <lastBuildDate>Fri, 29 May 2026 20:00:00 +0200</lastBuildDate>
+  <item>
+    <title>Les quatre modèles du handicap ne sont pas des étapes successives</title>
+    <link>https://pierrebrasseur.github.io/blog/2026-05-29-quatre-modeles.html</link>
+    <guid isPermaLink="true">https://pierrebrasseur.github.io/blog/2026-05-29-quatre-modeles.html</guid>
+    <pubDate>Fri, 29 May 2026 20:00:00 +0200</pubDate>
+    <category>Notes théoriques</category>
+    <description>Pourquoi je refuse la présentation chronologique des modèles du handicap, et ce que je propose à la place.</description>
+  </item>
+  <item>
+    <title>« Nothing about us without us » — épistémologie ou slogan ?</title>
+    <link>https://pierrebrasseur.github.io/blog/2026-05-29-citation-formule.html</link>
+    <guid isPermaLink="true">https://pierrebrasseur.github.io/blog/2026-05-29-citation-formule.html</guid>
+    <pubDate>Fri, 29 May 2026 19:30:00 +0200</pubDate>
+    <category>Notes théoriques</category>
+    <description>La formule de Charlton (1998) circule partout. Sa puissance politique ne dispense pas d&#x27;un travail conceptuel sur ce qu&#x27;elle signifie en pratique.</description>
+  </item>
+  <item>
+    <title>Note de lecture — Revillard, Des droits vulnérables (2020)</title>
+    <link>https://pierrebrasseur.github.io/blog/2026-05-29-lecture-revillard.html</link>
+    <guid isPermaLink="true">https://pierrebrasseur.github.io/blog/2026-05-29-lecture-revillard.html</guid>
+    <pubDate>Fri, 29 May 2026 19:00:00 +0200</pubDate>
+    <category>Notes de lecture</category>
+    <description>Le concept de droits vulnérables comme outil opérationnel pour le travail social.</description>
+  </item>
+  <item>
+    <title>La vignette pédagogique comme dispositif réflexif</title>
+    <link>https://pierrebrasseur.github.io/blog/2026-05-29-vignette-pedagogique.html</link>
+    <guid isPermaLink="true">https://pierrebrasseur.github.io/blog/2026-05-29-vignette-pedagogique.html</guid>
+    <pubDate>Fri, 29 May 2026 18:30:00 +0200</pubDate>
+    <category>Pédagogie</category>
+    <description>Pourquoi construire un cours autour d&#x27;une situation plutôt qu&#x27;autour d&#x27;un concept. Note méthodologique.</description>
+  </item>
+  <item>
+    <title>Pourquoi un carnet de recherche ?</title>
+    <link>https://pierrebrasseur.github.io/blog/2026-05-29-ouverture.html</link>
+    <guid isPermaLink="true">https://pierrebrasseur.github.io/blog/2026-05-29-ouverture.html</guid>
+    <pubDate>Fri, 29 May 2026 18:00:00 +0200</pubDate>
+    <category>Méta</category>
+    <description>Un espace public mais minoritaire pour penser à voix haute, déposer des lectures, suivre la maturation d&#x27;un projet.</description>
+  </item>
+</channel>
+</rss>
