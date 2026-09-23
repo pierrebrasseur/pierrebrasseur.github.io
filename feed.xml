@@ -6,7 +6,15 @@
   <atom:link href="https://pierrebrasseur.github.io/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notes de lecture, notes théoriques et réflexions pédagogiques.</description>
   <language>fr</language>
-  <lastBuildDate>Fri, 29 May 2026 20:00:00 +0200</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 10:00:00 +0200</lastBuildDate>
+  <item>
+    <title>Le contrat et l&#x27;écran</title>
+    <link>https://pierrebrasseur.github.io/blog/2026-09-23-contrat-et-ecran.html</link>
+    <guid isPermaLink="true">https://pierrebrasseur.github.io/blog/2026-09-23-contrat-et-ecran.html</guid>
+    <pubDate>Wed, 23 Sep 2026 10:00:00 +0200</pubDate>
+    <category>Notes théoriques</category>
+    <description>La Belgique a donné un statut salarié aux travailleuses du sexe en excluant les créatrices numériques. La France s&#x27;apprête à pénaliser les secondes.</description>
+  </item>
   <item>
     <title>Les quatre modèles du handicap ne sont pas des étapes successives</title>
     <link>https://pierrebrasseur.github.io/blog/2026-05-29-quatre-modeles.html</link>
