@@ -12,15 +12,19 @@ cours-soca-d400.html  Méthodes de recherche — 8 séances, biblio, supports PD
 cours-soca-d495.html  Théories du travail social
 cours-soca-d498.html  Care au travail
 cours-soca-d554.html  Mobilisations, genre et identités professionnelles
-cours-handicap.html   Handicap, autonomie et travail social (HETS Genève)
 communications.html   Colloques et séminaires, 2013–2026
 blog.html             Carnet — index des billets, filtrable par catégorie
 blog/                 Un billet par fichier HTML, nommé AAAA-MM-JJ-slug.html
 feed.xml              Flux RSS du carnet
 cv.html               CV complet (imprimable en PDF)
+404.html              Page « introuvable » (chemins absolus : servie à toute profondeur)
+sitemap.xml           Plan du site pour les moteurs (déclaré dans robots.txt)
+robots.txt            Autorise tout, pointe vers le sitemap
+favicon.svg/.ico/-48.png, apple-touch-icon.png   Icônes (Google exige un fichier, pas un data: URI)
 assets/style.css      Toute la mise en forme
+assets/site.js        Sommaire latéral : surligne la section en cours de lecture
 assets/portrait.jpg   Portrait de l'accueil (640×800, niveaux de gris)
-assets/cours/         Supports de cours en PDF (auteur : P. Brasseur)
+assets/og-card.jpg    Image d'aperçu des liens partagés (1200×630)
 .nojekyll             Désactive le traitement Jekyll côté GitHub
 ```
 
@@ -106,6 +110,29 @@ et le chapeau en haut de page.
 Les filtres fonctionnent par section : l'attribut `data-type` d'une `<section>`
 (`ouvrage`, `article`, `chapitre`, `direction`, `recension`) la relie au bouton correspondant.
 
+## Mise en page (depuis le 17 novembre 2026)
+
+Pleine largeur (jusqu'à 120 rem) : les listes (références, parcours, médias, séances)
+se répartissent en colonnes de 30 rem minimum ; la prose garde une ligne de 42 rem.
+Chaque page intérieure suit le même gabarit :
+
+```html
+<main id="main" class="wrap">
+  <header class="page-head"> h1 + standfirst (+ fil d'Ariane) </header>
+  <div class="page-body">
+    <nav class="page-toc" aria-label="Sur cette page"> liens vers les <h2 id> </nav>
+    <div class="page-main"> contenu </div>
+  </div>
+</main>
+```
+
+Ajouter une section : donner un `id` au nouveau `<h2>` et ajouter la ligne
+correspondante dans `.page-toc`. Les billets gardent une colonne de lecture
+(`<main class="wrap reading">`). L'accueil a sa propre mise en page (`main.home`).
+
+Après un ajout de page : l'inscrire dans `sitemap.xml` et dans le pied de page.
+Chaque page porte des balises Open Graph complètes (titre, description, URL, image).
+
 ## Choix techniques
 
 - Noir et blanc, mode sombre automatique via `prefers-color-scheme`.
@@ -114,4 +141,7 @@ Les filtres fonctionnent par section : l'attribut `data-type` d'une `<section>`
 - Le filtre des publications est en JavaScript progressif : sans JS, la liste complète
   s'affiche et la barre de filtres reste masquée.
 - `cv.html` a une feuille d'impression : `Cmd/Ctrl + P` produit un PDF propre.
-- Données structurées `schema.org/Person` sur l'accueil.
+- Données structurées : `ProfilePage` + `Person` sur l'accueil, `BlogPosting` sur les billets,
+  `BreadcrumbList` sur les pages de cours.
+- Contrastes WCAG AA (gris de texte ≥ 4,5:1 en clair comme en sombre), cibles cliquables
+  agrandies, compteurs de section lus par les lecteurs d'écran.
