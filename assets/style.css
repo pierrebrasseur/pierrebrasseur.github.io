@@ -940,3 +940,78 @@ a.src {
 /* ---------- page introuvable ---------- */
 
 .notfound .ids { margin-top: 1.5rem; }
+
+/* ---------- fiche de publication ---------- */
+
+.pub-title { font-size: clamp(1.9rem, 1.2rem + 2.6vw, 3.4rem); max-width: 60rem; }
+
+.pub-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0 clamp(2.5rem, 5vw, 6rem);
+  align-items: start;
+}
+@media (min-width: 64rem) {
+  .pub-layout { grid-template-columns: minmax(0, 3fr) minmax(18rem, 2fr); }
+
+}
+
+.pub-main > section:first-child > h2 { margin-top: 0; }
+.pub-main p { max-width: 48rem; }
+
+.pub-aside {
+  font-size: 0.95em;
+  padding-top: 0.2rem;
+}
+.pub-aside h2 {
+  font-size: 1.1rem;
+  margin: 2rem 0 0.6rem;
+  padding-top: 0.6rem;
+  border-top-width: 1px;
+}
+.pub-aside .rows > div { grid-template-columns: 6rem 1fr; gap: 0.2rem 1rem; padding: 0.45rem 0; }
+.pub-aside .rows dd { overflow-wrap: anywhere; }
+.pub-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0 0 0.5rem; }
+.pub-actions .dl { margin: 0; }
+.cite { font-size: 0.95em; color: var(--muted); }
+.pub-aside pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  margin: 0.6rem 0 0;
+  color: var(--ink);
+}
+.cover {
+  display: block;
+  width: 100%;
+  max-width: 15rem;
+  height: auto;
+  margin: 0 0 1.4rem;
+  border: 1px solid var(--rule);
+}
+.tags li { text-transform: none; letter-spacing: 0.01em; font-size: 0.85rem; }
+
+/* titres cliquables dans les listes de références */
+a.ref { text-decoration-color: var(--rule-strong); }
+a.ref:hover { text-decoration-color: currentColor; }
+
+@media print {
+  .pub-layout { display: block; }
+  .pub-aside { position: static; }
+  .pub-actions, .cover { display: none; }
+}
+
+.feature {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  gap: 1.1rem;
+  align-items: start;
+}
+.feature__cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--rule);
+}
